@@ -54,6 +54,13 @@
   .metacard .info{flex:1}
   .dgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:16px}
   .stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 13px}
+  .statclick{cursor:pointer;transition:border-color .12s,background .12s}
+  .statclick:hover{border-color:var(--line2)}
+  .staton{border-color:var(--red);background:var(--red-bg)}
+  .listtoggle{width:100%;margin:14px 0 4px;padding:12px;border-radius:12px;background:var(--card);border:1px solid var(--line2);color:var(--tx);font-weight:700;font-size:13px;cursor:pointer}
+  .listtoggle:hover{border-color:var(--red);color:var(--red)}
+  .ffgroup{margin-bottom:4px}
+  .fflbl{font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--tx3);font-weight:700;display:block;margin-bottom:5px}
   .stat .v{font-size:23px;font-weight:800;margin-top:5px;line-height:1;letter-spacing:-.02em}
   .stat .s{font-size:11px;color:var(--tx3);margin-top:4px}
   .v-red{color:var(--red)}.v-ok{color:var(--ok)}.v-warn{color:var(--warn)}.v-tx{color:var(--tx)}
@@ -142,11 +149,41 @@ const SAMPLE={clientes:[
  {cod:"1163190",nome:"Sabor Alternativo",segmento:"Boteco",gc:"G1",sv:"SV.G1.1",rota:"116",arquetipo:"Médio — a desenvolver",movimento:"1ª compra pendente",fat3m:"R$ 4.900",cx_mes:"~4 cx/mês",itens:"Zero|Cerveja",comprou_mes:"Não",cadastrado:"Sim",oport:"Média",imp:"52"},
  {cod:"1196298",nome:"Bar Bonito",segmento:"Boteco",gc:"G2",sv:"SV.G2.1",rota:"214",arquetipo:"Base ampla — potencial",movimento:"Recompra a reativar",fat3m:"R$ 980",cx_mes:"~1 cx/mês",itens:"Zero|Coca 2L",comprou_mes:"Não",cadastrado:"Não",oport:"Média",imp:""},
 ],metas:[{nivel:"GC",chave:"G2",meta:"400"},{nivel:"GC",chave:"G1",meta:"390"},{nivel:"SV",chave:"SV.G2.1",meta:"210"},{nivel:"SV",chave:"SV.G2.2",meta:"190"},{nivel:"SV",chave:"SV.G1.1",meta:"200"},{nivel:"ROTA",chave:"212",meta:"30"},{nivel:"ROTA",chave:"214",meta:"18"},{nivel:"ROTA",chave:"222",meta:"24"},{nivel:"ROTA",chave:"227",meta:"20"},{nivel:"ROTA",chave:"116",meta:"22"}]};
-let CLIENTES=[],METAS=[],DEMO=true;const st={gc:null,sv:null,rt:null,arqf:null,dias:[]};
+let CLIENTES=[],METAS=[],DEMO=true;const st={gc:null,sv:null,rt:null,foco:null,dias:[],lista:false};
 async function fetchCSV(u){const r=await fetch(u+((u.includes("?")?"&":"?")+"t="+Date.now()));return toObjects(parseCSV(await r.text()));}
 async function load(){el("status").textContent="carregando…";try{if(CONFIG.CLIENTS_CSV){CLIENTES=await fetchCSV(CONFIG.CLIENTS_CSV);METAS=CONFIG.METAS_CSV?await fetchCSV(CONFIG.METAS_CSV):[];DEMO=false;}else{CLIENTES=SAMPLE.clientes;METAS=SAMPLE.metas;DEMO=true;}}catch(e){CLIENTES=SAMPLE.clientes;METAS=SAMPLE.metas;DEMO=true;}render();el("status").innerHTML=(DEMO?'modo demonstração · ':'')+"atualizado às "+new Date().toTimeString().slice(0,5);}
 function uniq(a){return[...new Set(a.filter(x=>x&&x!=""))];}
 function metaFor(gc,sv,rt){let nivel="GC",chave=gc;if(rt){nivel="ROTA";chave=rt;}else if(sv){nivel="SV";chave=sv;}const m=METAS.find(x=>(x.nivel||"").toUpperCase()==nivel&&x.chave==chave);const sc=CLIENTES.filter(c=>c.gc==gc&&(!sv||c.sv==sv)&&(!rt||c.rota==rt));const real=sc.filter(c=>/sim/i.test(c.comprou_mes)).length;return{lbl:(rt?"Rota "+rt:(sv||"GC · "+gc)),meta:m?+m.meta:0,real};}
+const MV=(c,a,b)=>a.test(c.movimento||"")&&(!b||b.test(c.movimento||""));
+const DPRED={
+  reativar:c=>MV(c,/recompra/i,/reativ/i),
+  recja:c=>MV(c,/recompra/i,/(j\u00e1|ja|feita|comprou)/i),
+  feita:c=>MV(c,/(1\u00aa|1a|primeira)/i,/(feita|m\u00eas|mes|comprou)/i),
+  pend:c=>MV(c,/(1\u00aa|1a|primeira)/i,/pendente/i),
+  positiv:c=>/sim/i.test(c.comprou_mes),
+  prim:c=>MV(c,/(1\u00aa|1a|primeira)/i,/pendente/i)&&/alta/i.test(c.oport),
+  cadsped:c=>/sim/i.test(c.cadastrado)&&!/sim/i.test(c.comprou_mes),
+  puxfora:c=>/(puxador|fortaleza)/i.test(c.arquetipo)&&!/sim/i.test(c.cadastrado)};
+const DLABEL={reativar:"Recompra a reativar",recja:"Recompra já",feita:"1ª feita no mês",pend:"1ª pendente",positiv:"Positivados no mês",prim:"1ª compra prioritária",cadsped:"Cadastrado sem pedido",puxfora:"Fortaleza de cobertura, sem app"};
+function focoPred(){if(!st.foco)return null;if(st.foco.t=="arq")return c=>c.arquetipo==st.foco.v;if(st.foco.t=="dir")return DPRED[st.foco.v];return null;}
+function planList(scope,titulo){
+  const ord=c=>/alta/i.test(c.oport)?0:(/média|media/i.test(c.oport)?1:2);
+  const arqcnt={};scope.forEach(c=>arqcnt[c.arquetipo]=(arqcnt[c.arquetipo]||0)+1);
+  const arqs=Object.entries(arqcnt).sort((a,b)=>b[1]-a[1]);
+  const dordem=["reativar","recja","feita","pend","cadsped","puxfora","prim","positiv"];
+  let h='<div class="sechead">'+(titulo||"Plano cliente a cliente")+'</div>';
+  h+='<div class="ffgroup"><span class="fflbl">Situação</span><div class="arqfilters">';
+  h+='<button class="afchip'+(!st.foco?' on':'')+'" data-foco="">Todos ('+scope.length+')</button>';
+  h+=dordem.map(k=>{const n=scope.filter(DPRED[k]).length;return n?`<button class="afchip${st.foco&&st.foco.t=="dir"&&st.foco.v==k?' on':''}" data-fdir="${k}">${esc(DLABEL[k])} (${n})</button>`:"";}).join('');
+  h+='</div></div>';
+  h+='<div class="ffgroup"><span class="fflbl">Arquétipo</span><div class="arqfilters">';
+  h+=arqs.map(([k,v])=>`<button class="afchip${st.foco&&st.foco.t=="arq"&&st.foco.v==k?' on':''}" data-farq="${esc(k)}">${esc(k)} (${v})</button>`).join('');
+  h+='</div></div>';
+  const pred=focoPred();
+  const shown=(pred?scope.filter(pred):scope.slice()).sort((a,b)=>ord(a)-ord(b));
+  h+='<div class="list">'+(shown.length?shown.map(clientCard).join(""):'<div class="muted" style="padding:8px 2px">Nenhum cliente neste filtro.</div>')+'</div>';
+  return h;
+}
 function dir(sc){const mv=(c,a,b)=>a.test(c.movimento||"")&&(!b||b.test(c.movimento||""));return{
   reativar:sc.filter(c=>mv(c,/recompra/i,/reativ/i)).length,
   recja:sc.filter(c=>mv(c,/recompra/i,/(j\u00e1|ja|feita|comprou)/i)).length,
@@ -195,7 +232,7 @@ function render(){
   syncFilters();
   document.querySelectorAll(".dchip").forEach(b=>b.onclick=()=>{const d=b.dataset.dia;
     if(!d)st.dias=[];else st.dias=st.dias.includes(d)?st.dias.filter(x=>x!=d):st.dias.concat([d]);
-    st.arqf=null;render();});
+    st.foco=null;render();});
   const q=(el("search").value||"").trim().toLowerCase();
   if(q){
     ["focus","help","meta","direcional","arqbox","impbox"].forEach(id=>el(id).innerHTML="");
@@ -241,15 +278,15 @@ function render(){
   else el("meta").innerHTML="";
   // direcional
   el("direcional").innerHTML=[
-   ["★ Recompra reativar",d.reativar,"v-warn","compraram no app mês passado e ainda não este mês"],
-   ["Recompra já",d.recja,"v-ok","recompraram no app este mês"],
-   ["1ª feita no mês",d.feita,"v-ok","fizeram a 1ª compra no app este mês"],
-   ["1ª pendente",d.pend,"v-red","nunca pediram no app"],
-   ["Positivados no mês",d.positiv,"v-ok","com ao menos um pedido no app este mês"],
-   ["① 1ª compra",d.prim,"v-red","1ª compra prioritária (oportunidade alta)"],
-   ["② Cadastr. sem pedido",d.cadsped,"v-warn","já têm cadastro, falta o 1º pedido"],
-   ["Fortaleza de cobertura, sem app",d.puxfora,"v-red","seguram a cobertura e ainda não têm app"]
-  ].map(x=>`<div class="stat"><div class="lbl">${x[0]}</div><div class="v ${x[2]}">${x[1]}</div><div class="s">${x[3]}</div></div>`).join("");
+   ["★ Recompra reativar",d.reativar,"v-warn","compraram no app mês passado e ainda não este mês","reativar"],
+   ["Recompra já",d.recja,"v-ok","recompraram no app este mês","recja"],
+   ["1ª feita no mês",d.feita,"v-ok","fizeram a 1ª compra no app este mês","feita"],
+   ["1ª pendente",d.pend,"v-red","nunca pediram no app","pend"],
+   ["Positivados no mês",d.positiv,"v-ok","com ao menos um pedido no app este mês","positiv"],
+   ["① 1ª compra",d.prim,"v-red","1ª compra prioritária (oportunidade alta)","prim"],
+   ["② Cadastr. sem pedido",d.cadsped,"v-warn","já têm cadastro, falta o 1º pedido","cadsped"],
+   ["Fortaleza de cobertura, sem app",d.puxfora,"v-red","seguram a cobertura e ainda não têm app","puxfora"]
+  ].map(x=>{const on=st.foco&&st.foco.t=="dir"&&st.foco.v==x[4];return `<div class="stat statclick${on?' staton':''}" data-dir="${x[4]}"><div class="lbl">${x[0]}</div><div class="v ${x[2]}">${x[1]}</div><div class="s">${x[3]}</div></div>`;}).join("");
   const arqc={};scope.forEach(c=>arqc[c.arquetipo]=(arqc[c.arquetipo]||0)+1);
   const arqe=Object.entries(arqc).sort((a,b)=>b[1]-a[1]);const arqmax=Math.max(1,...arqe.map(x=>x[1]));
   el("arqbox").innerHTML='<div class="sechead">Arquétipos no escopo</div><div class="card" style="margin-bottom:16px">'+arqe.map(([k,v],i)=>{const pux=/(puxador|fortaleza)/i.test(k);return `<div style="margin-bottom:${i==arqe.length-1?0:9}px"><div class="row between" style="margin-bottom:4px"><span style="font-size:12px;color:var(--tx2)">${esc(k)}</span><span style="font-weight:700;font-size:13px${pux?';color:var(--red)':''}">${v}</span></div><div class="tbar"><span style="width:${Math.round(v/arqmax*100)}%;background:${pux?'var(--red)':'var(--line2)'}"></span></div></div>`;}).join("")+'</div>';
@@ -264,27 +301,33 @@ function render(){
     h+='<div class="sechead">Arquétipos — evidência e ação</div><div class="list" style="margin-bottom:16px">'+Object.entries(ac).map(([k,v])=>{const m=meta(k);return `<div class="card"><div class="row between"><span style="font-weight:700;font-size:13px">${esc(k)}</span><span style="color:var(--red);font-weight:800">${v}</span></div>${m.def?`<div class="sub" style="margin-top:6px">${esc(m.def)}</div>`:""}${m.ev?`<div class="actbox c-ok" style="margin-top:8px">✓ ${esc(m.ev)}</div>`:""}${m.ac?`<div style="font-size:12px;margin-top:6px;color:var(--tx2)">→ ${esc(m.ac)}</div>`:""}</div>`;}).join("")+'</div>';
     h+='<div class="sechead">Supervisões — toque para abrir</div>';
     h+=svs.map(s=>{const m=metaFor(gc,s,null);const ft=Math.max(0,m.meta-m.real);const op=CLIENTES.filter(c=>c.sv==s&&/alta/i.test(c.oport)).length;return `<button class="navcard nav" data-sv="${esc(s)}"><span><span class="t">${esc(s)}</span><br><span class="muted">${op} oportunidade alta</span></span><span class="row" style="gap:12px"><span class="falta">falta ${ft}</span>${chev()}</span></button>`;}).join("");
+    h+='<button class="listtoggle" id="lt">'+(st.lista?"Ocultar lista":"Ver lista de toda a GC "+esc(gc)+" ("+scope.length+")")+'</button>';
+    if(st.lista)h+=planList(scope,"Todos os clientes · GC "+esc(gc));
   } else if(!rt){const rts=uniq(CLIENTES.filter(c=>c.gc==gc&&c.sv==sv).map(c=>c.rota)).sort((a,b)=>a-b);
     h+='<div class="sechead">Rotas — toque para abrir o plano</div>';
     h+=rts.map(r=>{const m=metaFor(gc,sv,r);const ft=Math.max(0,m.meta-m.real);const op=CLIENTES.filter(c=>c.rota==r&&c.sv==sv&&/alta/i.test(c.oport)).length;return `<button class="navcard nav" data-rt="${esc(r)}"><span><span class="t">Rota ${esc(r)}</span><br><span class="muted">${op} oportunidade alta</span></span><span class="row" style="gap:12px"><span class="falta">falta ${ft}</span>${chev()}</span></button>`;}).join("");
-  } else {const ord=c=>/alta/i.test(c.oport)?0:(/média|media/i.test(c.oport)?1:2);
-    const arqcnt={};scope.forEach(c=>arqcnt[c.arquetipo]=(arqcnt[c.arquetipo]||0)+1);
-    const arqs=Object.entries(arqcnt).sort((a,b)=>b[1]-a[1]);
-    h+='<div class="sechead">Plano cliente a cliente</div>';
-    h+='<div class="arqfilters"><button class="afchip'+(!st.arqf?' on':'')+'" data-arq="">Todos ('+scope.length+')</button>'+arqs.map(([k,v])=>`<button class="afchip${st.arqf==k?' on':''}" data-arq="${esc(k)}">${esc(k)} (${v})</button>`).join('')+'</div>';
-    const shown=(st.arqf?scope.filter(c=>c.arquetipo==st.arqf):scope.slice()).sort((a,b)=>ord(a)-ord(b));
-    h+='<div class="list">'+(shown.length?shown.map(clientCard).join(""):'<div class="muted" style="padding:8px 2px">Nenhum cliente neste arquétipo.</div>')+'</div>';
-  }
+    h+='<button class="listtoggle" id="lt">'+(st.lista?"Ocultar lista":"Ver lista de toda a "+esc(sv)+" ("+scope.length+")")+'</button>';
+    if(st.lista)h+=planList(scope,"Todos os clientes · "+esc(sv));
+  } else { h+=planList(scope); }
   el("view").innerHTML=h;
-  document.querySelectorAll(".nav").forEach(b=>b.onclick=()=>{if(b.dataset.gc)st.gc=b.dataset.gc;else if(b.dataset.sv)st.sv=b.dataset.sv;else if(b.dataset.rt)st.rt=b.dataset.rt;st.arqf=null;window.scrollTo(0,0);render();});
-  document.querySelectorAll(".afchip").forEach(b=>b.onclick=()=>{st.arqf=b.dataset.arq||null;render();});
-  document.querySelectorAll(".crumb a").forEach(a=>a.onclick=()=>{const l=a.dataset.lvl;if(l=="root"){st.gc=st.sv=st.rt=null;}else if(l=="gc"){st.sv=st.rt=null;}else if(l=="sv"){st.rt=null;}st.arqf=null;render();});
+  document.querySelectorAll(".nav").forEach(b=>b.onclick=()=>{if(b.dataset.gc)st.gc=b.dataset.gc;else if(b.dataset.sv)st.sv=b.dataset.sv;else if(b.dataset.rt)st.rt=b.dataset.rt;st.foco=null;st.lista=false;window.scrollTo(0,0);render();});
+  document.querySelectorAll(".afchip").forEach(b=>b.onclick=()=>{
+    if(b.dataset.foco!==undefined&&b.dataset.foco==="")st.foco=null;
+    else if(b.dataset.fdir)st.foco={t:"dir",v:b.dataset.fdir};
+    else if(b.dataset.farq)st.foco={t:"arq",v:b.dataset.farq};
+    render();});
+  {const lt=document.getElementById("lt");if(lt)lt.onclick=()=>{st.lista=!st.lista;render();};}
+  document.querySelectorAll(".statclick").forEach(b=>b.onclick=()=>{const k=b.dataset.dir;
+    st.foco=(st.foco&&st.foco.t=="dir"&&st.foco.v==k)?null:{t:"dir",v:k};
+    if(st.foco&&!(st.gc&&st.sv&&st.rt))st.lista=true;
+    render();});
+  document.querySelectorAll(".crumb a").forEach(a=>a.onclick=()=>{const l=a.dataset.lvl;if(l=="root"){st.gc=st.sv=st.rt=null;}else if(l=="gc"){st.sv=st.rt=null;}else if(l=="sv"){st.rt=null;}st.foco=null;render();});
 }
 if(CONFIG.LOGO_URL){el("logo").src=CONFIG.LOGO_URL;el("wordmark").style.display="none";}else{el("logo").style.display="none";}
 el("search").oninput=render;
-el("fgc").onchange=()=>{st.gc=el("fgc").value||null;st.sv=null;st.rt=null;st.arqf=null;render();};
-el("fsv").onchange=()=>{st.sv=el("fsv").value||null;st.rt=null;st.arqf=null;render();};
-el("frt").onchange=()=>{st.rt=el("frt").value||null;st.arqf=null;render();};
+el("fgc").onchange=()=>{st.gc=el("fgc").value||null;st.sv=null;st.rt=null;st.foco=null;render();};
+el("fsv").onchange=()=>{st.sv=el("fsv").value||null;st.rt=null;st.foco=null;render();};
+el("frt").onchange=()=>{st.rt=el("frt").value||null;st.foco=null;render();};
 
 el("refresh").onclick=load;
 load();
