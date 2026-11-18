@@ -118,7 +118,7 @@
 <div class="filterbar"><div style="max-width:600px;margin:0 auto"><div class="gcchips" id="gcchips"></div><div class="filters"><select id="fsv"></select><select id="frt"></select></div><div class="filters2"><input id="search" placeholder="Buscar por código (PV) ou nome fantasia"></div><div class="dchips" id="dchips"></div></div></div>
 </div>
 <div class="wrap">
-  <script>const CONFIG={ CLIENTS_CSV:"https://docs.google.com/spreadsheets/d/e/2PACX-1vSKhbfkxc4LST9byMm2sLnvk45Iz9eMEAvKlFrKVKZoN26iAJcU6OlDrI7mWak0Jg/pub?gid=1183645876&single=true&output=csv", METAS_CSV:"https://docs.google.com/spreadsheets/d/e/2PACX-1vSKhbfkxc4LST9byMm2sLnvk45Iz9eMEAvKlFrKVKZoN26iAJcU6OlDrI7mWak0Jg/pub?gid=1686160314&single=true&output=csv", LOGO_URL:"" };</script>
+  <script>const CONFIG={ CLIENTS_CSV:"data/clientes.csv", METAS_CSV:"data/metas.csv", INFO_JSON:"data/atualizado.json", LOGO_URL:"" };</script>
   <div class="crumb" id="crumb"></div>
   <div id="focus"></div>
   <div id="help"></div>
@@ -156,7 +156,7 @@ const SAMPLE={clientes:[
 ],metas:[{nivel:"GC",chave:"G2",meta:"400"},{nivel:"GC",chave:"G1",meta:"390"},{nivel:"SV",chave:"SV.G2.1",meta:"210"},{nivel:"SV",chave:"SV.G2.2",meta:"190"},{nivel:"SV",chave:"SV.G1.1",meta:"200"},{nivel:"ROTA",chave:"212",meta:"30"},{nivel:"ROTA",chave:"214",meta:"18"},{nivel:"ROTA",chave:"222",meta:"24"},{nivel:"ROTA",chave:"227",meta:"20"},{nivel:"ROTA",chave:"116",meta:"22"}]};
 let CLIENTES=[],METAS=[],DEMO=true;const st={gcs:[],sv:null,rt:null,foco:null,dias:[],lista:false};
 async function fetchCSV(u){const r=await fetch(u+((u.includes("?")?"&":"?")+"t="+Date.now()));return toObjects(parseCSV(await r.text()));}
-async function load(){el("status").textContent="carregando…";try{if(CONFIG.CLIENTS_CSV){CLIENTES=await fetchCSV(CONFIG.CLIENTS_CSV);METAS=CONFIG.METAS_CSV?await fetchCSV(CONFIG.METAS_CSV):[];DEMO=false;}else{CLIENTES=SAMPLE.clientes;METAS=SAMPLE.metas;DEMO=true;}}catch(e){CLIENTES=SAMPLE.clientes;METAS=SAMPLE.metas;DEMO=true;}render();el("status").innerHTML=(DEMO?'modo demonstração · ':'')+"atualizado às "+new Date().toTimeString().slice(0,5);}
+async function load(){el("status").textContent="carregando…";try{if(CONFIG.CLIENTS_CSV){CLIENTES=await fetchCSV(CONFIG.CLIENTS_CSV);METAS=CONFIG.METAS_CSV?await fetchCSV(CONFIG.METAS_CSV):[];DEMO=false;}else{CLIENTES=SAMPLE.clientes;METAS=SAMPLE.metas;DEMO=true;}}catch(e){CLIENTES=SAMPLE.clientes;METAS=SAMPLE.metas;DEMO=true;}let INFO=null;try{if(CONFIG.INFO_JSON)INFO=await (await fetch(CONFIG.INFO_JSON+"?t="+Date.now())).json();}catch(e){}render();el("status").innerHTML=(DEMO?'modo demonstração · ':'')+(INFO&&INFO.atualizado?"dados de "+esc(INFO.atualizado):"atualizado às "+new Date().toTimeString().slice(0,5));}
 function uniq(a){return[...new Set(a.filter(x=>x&&x!=""))];}
 function metaVal(nivel,chave){const m=METAS.find(x=>(x.nivel||"").toUpperCase()==nivel.toUpperCase()&&x.chave==chave);return m?+m.meta:0;}
 function metaFor(gc,sv,rt){let nivel="GC",chave=gc;if(rt){nivel="ROTA";chave=rt;}else if(sv){nivel="SV";chave=sv;}const sc=CLIENTES.filter(c=>c.gc==gc&&(!sv||c.sv==sv)&&(!rt||c.rota==rt));const real=sc.filter(c=>/sim/i.test(c.comprou_mes)).length;return{lbl:(rt?"Rota "+rt:(sv||"GC · "+gc)),meta:metaVal(nivel,chave),real};}
