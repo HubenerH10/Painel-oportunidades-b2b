@@ -207,7 +207,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1006918,Lanch Central,Padarias,AN,AN.3,A35,Médio — desenvolvido,45,R$ 10.593,~63 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
 1006928,Bar Rodoviaria,Lanchonete,PO,PO.1,O15,Médio — desenvolvido,100,R$ 11.894,~76 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1006936,Dona Dica Restarurante,Restaurante,IT,IT.2,I22,Fortaleza de cobertura,100,R$ 4.876,~36 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
-1006954,Bar Do Albino,Boteco,UR,UR.2,U23,Fortaleza de cobertura,100,R$ 4.281,~34 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Sabores|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1006954,Bar Do Albino,Boteco,UR,UR.2,U23,Fortaleza de cobertura,100,R$ 4.281,~34 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1006956,Bar Do Luiz,Boteco,PO,PO.1,O12,Fortaleza de cobertura,33,R$ 5.662,~35 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1006966,Merc E Bar Dos Amigos,As 1-4,GU,GU.1,G16,Fortaleza de cobertura,7,R$ 2.224,~18 cx/mês,Coca 2L|Kapo|Cerveja|Cerveja 600|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1006977,Buritis Mercado Lanchonete,As 1-4,GU,GU.1,G13,Fortaleza de cobertura,81,R$ 4.584,~43 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qui,Alta
@@ -262,7 +262,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1008165,Miranda Bar,Boteco,GU,GU.1,G14,Fortaleza de cobertura,67,R$ 4.644,~43 cx/mês,Zero|Coca 2L|Cerveja|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1008175,Bar Dona Maria,Boteco,RI,RI.1,C11,Base ampla — potencial,25,R$ 1.456,~6 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1008176,Bar Do Hildo,Boteco,GU,GU.1,G13,Base ampla — cesta mínima,8,R$ 173,~1 cx/mês,Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
-1008215,Real Drinks,Lanchonete,PA,PA.2,P22,Médio — desenvolvido,87,R$ 7.284,~53 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1008215,Real Drinks,Lanchonete,PA,PA.2,P22,Médio — desenvolvido,87,R$ 7.284,~53 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1008222,Opçao Bar,Mercearia,UR,UR.2,U23,Grande,83,R$ 23.169,~199 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Qua,
 1008262,Recife Hotel,Boteco,PA,PA.2,P25,Fortaleza de cobertura,92,R$ 4.380,~37 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1008290,Bar Do Ze Balinha,Boteco,PO,PO.1,O14,Médio — desenvolvido,100,R$ 9.041,~73 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Seg,Média
@@ -332,7 +332,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1009635,Bar Jk,Lanchonete,RI,RI.2,C27,Base ampla — potencial,27,R$ 3.585,~20 cx/mês,Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1009638,Mercearia Joao Quirino,Mercearia,RI,RI.2,C27,Base ampla — cesta mínima,0,R$ 1.733,~11 cx/mês,Coca 2L|Cerveja,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
 1009654,Cial Nascimento,As 1-4,PA,PA.1,P13,Fortaleza de cobertura,26,R$ 2.603,~21 cx/mês,Coca 2L|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
-1009666,Comida Caseiro De Loira,Outros Canais,PO,PO.1,O11,Fortaleza de cobertura,,R$ 4.340,~26 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1009666,Comida Caseiro De Loira,Outros Canais,PO,PO.1,O11,Fortaleza de cobertura,,R$ 4.340,~26 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1009683,Merc E Bar Carvalho,As 1-4,AN,AN.3,A37,Médio — desenvolvido,59,R$ 17.750,~151 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1009707,Pamonharia Jl,Outros Canais,AN,AN.2,A25,Fortaleza de cobertura,,R$ 4.730,~34 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1009734,Rei Das Pamonhas,Lanchonete,PO,PO.1,O13,Fortaleza de cobertura,93,R$ 4.536,~27 cx/mês,Zero|Coca 2L|Kapo|Powerade,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
@@ -340,7 +340,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1009754,Twist Bar,Boteco,GU,GU.1,G14,Fortaleza de cobertura,50,R$ 1.165,~6 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600|Eisenbahn,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
 1009771,Pamonharia Puro Sabor,Lanchonete,RI,RI.1,C15,Fortaleza de cobertura,100,R$ 3.129,~25 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1009779,Piorras Bar,Outros Canais,SL,SL.2,S24,Fortaleza de cobertura,,R$ 1.179,~11 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
-1009786,Vava Bar,Boteco,IT,IT.2,I23,Médio — desenvolvido,100,R$ 12.143,~48 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1009786,Vava Bar,Boteco,IT,IT.2,I23,Médio — desenvolvido,100,R$ 12.143,~48 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1009805,Bar Bom Sucesso,Boteco,IT,IT.2,I21,Fortaleza de cobertura,75,R$ 1.177,~12 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1009851,Ze Carioca Burguers,Lanchonete,PO,PO.1,O11,Médio — desenvolvido,87,R$ 11.683,~66 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,Média
 1009909,Quitanda Da Vovo,Lanchonete,IT,IT.1,I14,Médio — desenvolvido,93,R$ 10.398,~93 cx/mês,Zero|Coca 2L|Kapo|Powerade,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
@@ -536,8 +536,8 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1014237,Bar Santos,Boteco,AN,AN.3,A33,Fortaleza de cobertura,67,R$ 1.994,~17 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1014248,Lanche Bertoudo,Outros Canais,AN,AN.3,A34,Fortaleza de cobertura,,R$ 5.232,~50 cx/mês,Zero|Coca 2L|Kapo|Powerade|Sabores,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
 1014249,Pit Dog Santino E Lanch,Outros Canais,G1,G1.2,126,Base ampla — potencial,,R$ 2.124,~11 cx/mês,Zero|Coca 2L,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
-1014255,Conexao Do Gelo,As 1-4,GU,GU.2,G23,Grande,63,R$ 30.303,~278 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Sex,
-1014290,Panif Pao Goiano,Padarias,IT,IT.2,I22,Médio — desenvolvido,67,R$ 11.670,~86 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1014255,Conexao Do Gelo,As 1-4,GU,GU.2,G23,Grande,63,R$ 30.303,~278 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,
+1014290,Panif Pao Goiano,Padarias,IT,IT.2,I22,Médio — desenvolvido,67,R$ 11.670,~86 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1014294,Bar Do Candim,Outros Canais,UR,UR.1,U15,Base ampla — potencial,,R$ 1.575,~7 cx/mês,Kapo|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1014334,Pit Dog Paulao,Outros Canais,AN,AN.3,A34,Base ampla — potencial,,R$ 3.572,~30 cx/mês,Zero|Coca 2L|Kapo|Powerade,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1014407,Super Ideal,As 1-4,PO,PO.1,O14,Base ampla — potencial,22,R$ 919,~6 cx/mês,Zero|Coca 2L|Powerade|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
@@ -594,7 +594,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1015914,Super Sao Lucas,As 1-4,SL,SL.2,S21,Base ampla — potencial,7,R$ 696,~6 cx/mês,Coca 2L|Powerade|Monster,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1015965,Bar Panif Guarinos,Padarias,UR,UR.2,U25,Médio — desenvolvido,74,R$ 9.778,~86 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1015981,Comerc Vera Cruz,Mercearia,RV,RV.2,R21,Base ampla — potencial,29,R$ 4.320,~31 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
-1015982,Le Petiti Lanche,Lanchonete,G3,G3.1,312,Fortaleza de cobertura,93,R$ 2.359,~19 cx/mês,Zero|Cerveja,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qua - Sex,Alta
+1015982,Le Petiti Lanche,Lanchonete,G3,G3.1,312,Fortaleza de cobertura,93,R$ 2.359,~19 cx/mês,Zero|Cerveja,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Qua - Sex,Alta
 1016044,Pizzaria E Sorveteria Novo Sabor,Outros Canais,RV,RV.2,R25,Médio — desenvolvido,,R$ 6.168,~40 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1016045,Zitos Chopp,Boteco,AP,AP.2,522,Fortaleza de cobertura,50,R$ 4.526,~31 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1016046,Jiboias Bar,Boteco,AN,AN.2,A26,Fortaleza de cobertura,75,R$ 3.274,~28 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
@@ -680,7 +680,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1018785,Borjao Supermercado,As 1-4,SL,SL.2,S22,Grande conta,92,R$ 111.490,~857 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Ter - Qui,
 1018788,Super Marilia,As 1-4,G2,G2.1,214,Médio — desenvolvido,26,R$ 7.261,~61 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1018799,Digasbel,Adegas,IT,IT.2,I23,Base ampla — cesta mínima,,R$ 1.168,~5 cx/mês,Zero,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
-1018810,Bar E Merc Ferreira,Mercearia,UR,UR.1,U15,Base ampla — potencial,12,R$ 2.264,~16 cx/mês,Coca 2L|Kapo|Cerveja|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1018810,Bar E Merc Ferreira,Mercearia,UR,UR.1,U15,Base ampla — potencial,12,R$ 2.264,~16 cx/mês,Coca 2L|Kapo|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1018846,Bar Do Paraiba,Boteco,G1,G1.2,127,Base ampla — potencial,33,R$ 931,~5 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qui,Média
 1018886,Super Renascer,As 1-4,IT,IT.2,I22,Médio — desenvolvido,70,R$ 7.261,~66 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,Média
 1018899,Armazem Flor De Minas,As 1-4,G1,G1.1,111,Médio — desenvolvido,70,R$ 9.467,~85 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
@@ -1429,7 +1429,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1035763,Super Vila Morais,As 1-4,G2,G2.2,227,Médio — desenvolvido,44,R$ 9.525,~68 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
 1035772,Igreja Luz Para Povos,Lanchonete,G2,G2.2,222,Fortaleza de cobertura,47,R$ 1.667,~13 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Seg,Alta
 1035800,Sirva Se Super,As 1-4,G2,G2.2,225,Grande,67,R$ 40.942,~416 cx/mês,Zero|Coca 2L|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
-1035803,Quitanda E Cia,Lanchonete,G1,G1.2,123,Fortaleza de cobertura,80,R$ 1.741,~15 cx/mês,Zero|Monster|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1035803,Quitanda E Cia,Lanchonete,G1,G1.2,123,Fortaleza de cobertura,80,R$ 1.741,~15 cx/mês,Zero|Monster|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1035823,Mercearia Gaucha,As 1-4,G1,G1.2,126,Fortaleza de cobertura,19,R$ 1.615,~19 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
 1035833,Bar Rest X Pita,Restaurante,G3,G3.2,325,Fortaleza de cobertura,73,R$ 2.355,~15 cx/mês,Zero|Coca 2L|Cerveja|Eisenbahn,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
 1035834,Super Kim Kim,As 1-4,G1,G1.2,122,Médio — desenvolvido,48,R$ 20.251,~179 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
@@ -1769,8 +1769,8 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1044507,Super Tendtudo,As 1-4,G1,G1.1,111,Fortaleza de cobertura,33,R$ 4.924,~39 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,Alta
 1044517,Bar Da Sonia,Boteco,AN,AN.3,A33,Base ampla — cesta mínima,50,R$ 752,~5 cx/mês,Zero|Kapo,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,Média
 1044550,Bar Do Pvc,Boteco,AN,AN.2,A25,Base ampla — potencial,58,R$ 1.024,~9 cx/mês,Zero|Coca 2L|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
-1044625,Panif Vasconcelos,Padarias,AP,AP.2,523,Fortaleza de cobertura,43,R$ 3.722,~23 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
-1044728,Panif Canal,Padarias,SL,SL.2,S22,Fortaleza de cobertura,52,R$ 2.422,~22 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1044625,Panif Vasconcelos,Padarias,AP,AP.2,523,Fortaleza de cobertura,43,R$ 3.722,~23 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
+1044728,Panif Canal,Padarias,SL,SL.2,S22,Fortaleza de cobertura,52,R$ 2.422,~22 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1044732,Supermercado Carvalho,As 1-4,AP,AP.1,515,Novo na base,,sem histórico,,,Sim,Sim,1ª compra feita este mês,—,"Cliente novo na base, sem histórico de 3 meses",1,0,SIM,Qui,
 1044781,Supermercado Aguiar,As 1-4,G1,G1.1,112,Grande,11,R$ 29.517,~324 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Ter,
 1044842,Sup Panif Canaa,As 1-4,AP,AP.1,515,Médio — desenvolvido,94,R$ 13.899,~137 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
@@ -1896,7 +1896,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1048548,Super Panif Mendonca,As 1-4,RV,RV.2,R21,Médio — desenvolvido,33,R$ 10.405,~113 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1048622,Bethy'S Lanches E Restaurante,Lanchonete,PA,PA.1,P14,Médio — desenvolvido,80,R$ 6.436,~48 cx/mês,Zero|Coca 2L|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1048633,Pebinhas Lanches,Lanchonete,RV,RV.2,R22,Fortaleza de cobertura,47,R$ 2.141,~14 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
-1048644,Bar Do Nene,Boteco,RV,RV.1,R16,Fortaleza de cobertura,75,R$ 1.759,~11 cx/mês,Zero|Coca 2L|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1048644,Bar Do Nene,Boteco,RV,RV.1,R16,Fortaleza de cobertura,75,R$ 1.759,~11 cx/mês,Zero|Coca 2L|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1048715,Dom Vergilio,Restaurante,PA,PA.1,P14,Grande conta,100,R$ 71.982,~721 cx/mês,Zero|Coca 2L|Cerveja|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1048716,Carlao Supermercado,As 1-4,SL,SL.1,S12,Grande conta,19,R$ 49.731,~382 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1048723,Vale Do Amanhecer,Lanchonete,AN,AN.3,A31,Médio — desenvolvido,93,R$ 13.508,~123 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
@@ -2111,7 +2111,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1052845,Merc Jm Souza,As 1-4,RI,RI.1,C12,Fortaleza de cobertura,26,R$ 4.686,~41 cx/mês,Coca 2L|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1052918,Merc Fernandes,As 1-4,G2,G2.2,226,Base ampla — potencial,15,R$ 3.754,~21 cx/mês,Zero|Coca 2L|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,Média
 1052923,Super Silva,As 1-4,UR,UR.2,U25,Grande conta,100,R$ 141.361,~1356 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
-1052928,Super Caisara,As 1-4,UR,UR.2,U23,Médio — desenvolvido,96,R$ 17.316,~129 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1052928,Super Caisara,As 1-4,UR,UR.2,U23,Médio — desenvolvido,96,R$ 17.316,~129 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1052934,Supermercado Santos,As 1-4,PO,PO.1,O12,Médio — desenvolvido,56,R$ 17.779,~169 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1052951,Merc Boa Sorte,As 1-4,PO,PO.1,O18,Fortaleza de cobertura,48,R$ 5.216,~35 cx/mês,Zero|Coca 2L|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1052963,Super Itabox,As 1-4,RI,RI.2,C27,Médio — desenvolvido,74,R$ 16.538,~155 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
@@ -2347,7 +2347,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1059802,Bar Do Ernesto,Boteco,G3,G3.1,317,Fortaleza de cobertura,67,R$ 1.588,~12 cx/mês,Zero|Coca 2L|Monster,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg - Qua,Alta
 1059824,Bar Da Rodoviaria,Lanchonete,RV,RV.2,R24,Fortaleza de cobertura,87,R$ 4.186,~30 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
 1059866,Super Ls,As 1-4,RV,RV.2,R23,Médio — desenvolvido,59,R$ 8.733,~73 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qua,Média
-1060004,Mercearia Mirim,Adegas,G1,G1.1,115,Fortaleza de cobertura,,R$ 864,~5 cx/mês,Coca 2L|Kapo|Monster|Cerveja|Eisenbahn,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qui,Alta
+1060004,Mercearia Mirim,Adegas,G1,G1.1,115,Fortaleza de cobertura,,R$ 864,~5 cx/mês,Coca 2L|Kapo|Monster|Cerveja|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Qui,Alta
 1060006,Bar Do Juarez,Boteco,G2,G2.2,221,Base ampla — cesta mínima,25,R$ 518,~3 cx/mês,Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1060010,Bar Do Amadeus,Boteco,G2,G2.1,215,Fortaleza de cobertura,92,R$ 1.279,~10 cx/mês,Zero|Coca 2L|Kapo|Monster,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1060030,Wr Supermercado,As 1-4,PO,PO.1,O15,Grande conta,86,R$ 210.774,~1785 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn,Não,Não,1ª compra pendente,,,0,0,NAO,Sex,
@@ -2373,7 +2373,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1060616,Bar Do Celio,Boteco,AP,AP.2,528,Base ampla — potencial,33,R$ 1.818,~10 cx/mês,Zero|Coca 2L|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
 1060625,Bar 5 Estrela,Boteco,IT,IT.2,I25,Médio — desenvolvido,75,R$ 6.732,~51 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
 1060627,Emporio Farol,As 1-4,IT,IT.2,I25,Grande,67,R$ 24.060,~247 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Não,Recompra a reativar,,,0,0,SIM,Sex,
-1060645,Churras E Hotel Sat,Restaurante,IT,IT.2,I25,Médio — desenvolvido,100,R$ 18.485,~150 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1060645,Churras E Hotel Sat,Restaurante,IT,IT.2,I25,Médio — desenvolvido,100,R$ 18.485,~150 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1060704,Panif Confianca,Padarias,IT,IT.2,I25,Médio — desenvolvido,69,R$ 7.467,~59 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1060733,Past Kancao,Boteco,IT,IT.2,I24,Fortaleza de cobertura,83,R$ 4.412,~26 cx/mês,Zero|Monster,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qui,Alta
 1060741,Sorveteria Pinguim,Lanchonete,PA,PA.2,P21,Fortaleza de cobertura,100,R$ 4.144,~27 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,Alta
@@ -2423,7 +2423,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1061474,Mr Burger,Lanchonete,PA,PA.3,P35,Fortaleza de cobertura,87,R$ 4.361,~34 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Cerveja 600,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
 1061544,Panif Nosso Pao,Padarias,PA,PA.2,P23,Base ampla — potencial,24,R$ 1.101,~7 cx/mês,Zero|Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1061546,Bar Rodoviaria,Lanchonete,IT,IT.2,I25,Fortaleza de cobertura,93,R$ 2.487,~22 cx/mês,Zero|Kapo|Powerade|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
-1061556,Panif Real,Padarias,IT,IT.2,I24,Fortaleza de cobertura,57,R$ 4.691,~42 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
+1061556,Panif Real,Padarias,IT,IT.2,I24,Fortaleza de cobertura,57,R$ 4.691,~42 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1061576,Supermercado Victor,As 1-4,IT,IT.2,I25,Grande,96,R$ 32.085,~238 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Não,Recompra a reativar,,,0,0,SIM,Qui,
 1061583,Rei Do Lar Super,As 1-4,IT,IT.2,I24,Grande conta,96,R$ 49.582,~457 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1061600,Fabinho,Outros Canais,RI,RI.1,C12,Base ampla — potencial,,R$ 1.440,~7 cx/mês,Zero,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
@@ -2481,7 +2481,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1062678,Bar Do Euripedes,Boteco,PO,PO.1,O16,Base ampla — potencial,58,R$ 1.378,~9 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1062679,Mangueira Lanches,Lanchonete,PO,PO.1,O16,Fortaleza de cobertura,87,R$ 3.344,~20 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qui,Alta
 1062692,Cial Ferreira,Mercearia,PO,PO.1,O17,Fortaleza de cobertura,8,R$ 1.868,~15 cx/mês,Zero|Coca 2L|Monster|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
-1062694,Merc Mesquita,As 1-4,PO,PO.1,O16,Médio — desenvolvido,52,R$ 7.420,~53 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1062694,Merc Mesquita,As 1-4,PO,PO.1,O16,Médio — desenvolvido,52,R$ 7.420,~53 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1062701,Shell Select Conveniência Aparecidã,Lj. Conveniências,AP,AP.2,528,Grande,,R$ 39.034,~259 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1062719,Lanc Do Tiao,Lanchonete,PO,PO.1,O13,Médio — desenvolvido,100,R$ 14.162,~84 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1062747,Panif Saborita,Padarias,PO,PO.1,O17,Médio — desenvolvido,93,R$ 15.017,~91 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
@@ -2662,7 +2662,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1067653,Pit Dog Marques,Lanchonete,RI,RI.1,C13,Fortaleza de cobertura,60,R$ 2.946,~20 cx/mês,Kapo|Powerade|Cerveja|Cerveja 600|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1067661,Merc Santa Maria,Mercearia,PO,PO.1,O13,Médio — desenvolvido,38,R$ 17.232,~159 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1067663,Predileta Panificadora,Padarias,PO,PO.1,O17,Grande,88,R$ 37.627,~265 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Seg,
-1067675,Bar E Mercearia Do Indio,Adegas,G2,G2.2,227,Base ampla — potencial,,R$ 4.418,~34 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1067675,Bar E Mercearia Do Indio,Adegas,G2,G2.2,227,Base ampla — potencial,,R$ 4.418,~34 cx/mês,Zero|Coca 2L|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1067682,Lanchonete Primavera,Boteco,RV,RV.2,R25,Fortaleza de cobertura,42,R$ 4.697,~22 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1067699,Merc Alves,As 1-4,PO,PO.1,O16,Fortaleza de cobertura,41,R$ 2.118,~22 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
 1067702,Mini Box Preco,As 1-4,AN,AN.3,A33,Fortaleza de cobertura,30,R$ 3.453,~31 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
@@ -2684,7 +2684,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1067911,Brazinha Chopp,Boteco,RV,RV.2,R23,Médio — desenvolvido,67,R$ 6.148,~36 cx/mês,Zero|Kapo|Powerade|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,Média
 1067915,Sacolao Da Economia,As 1-4,RV,RV.2,R24,Fortaleza de cobertura,78,R$ 3.710,~31 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1067978,Bar Dos Amigos,Boteco,RV,RV.1,R13,Base ampla — potencial,42,R$ 2.759,~13 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Seg,Média
-1067993,Super Vitoria,As 1-4,SL,SL.2,S21,Base ampla — potencial,4,R$ 720,~7 cx/mês,Coca 2L|Kapo|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1067993,Super Vitoria,As 1-4,SL,SL.2,S21,Base ampla — potencial,4,R$ 720,~7 cx/mês,Coca 2L|Kapo|Cerveja,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1068023,Mercabox Amorim,As 1-4,PO,PO.1,O17,Médio — desenvolvido,33,R$ 11.277,~124 cx/mês,Zero|Coca 2L|Kapo|Powerade|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1068067,Cervejato Dist Beb,Adegas,G3,G3.2,322,Grande conta,,R$ 73.306,~575 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
 1068128,Super 10,As 1-4,SL,SL.2,S24,Fortaleza de cobertura,48,R$ 4.186,~34 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
@@ -2722,7 +2722,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1068663,Supermercado Arco Iris,As 1-4,PA,PA.3,P33,Médio — desenvolvido,63,R$ 11.506,~76 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1068669,Merc Pacheco,As 1-4,SL,SL.2,S24,Base ampla — potencial,11,R$ 2.606,~23 cx/mês,Zero|Coca 2L|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1068699,Super Viva,As 1-4,PO,PO.1,O14,Médio — desenvolvido,56,R$ 13.466,~91 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter,Média
-1068701,Bar Da Claudia,Boteco,RI,RI.1,C16,Base ampla — potencial,50,R$ 1.093,~6 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1068701,Bar Da Claudia,Boteco,RI,RI.1,C16,Base ampla — potencial,50,R$ 1.093,~6 cx/mês,Zero|Coca 2L|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1068713,Minas Bar,Boteco,AP,AP.2,528,Fortaleza de cobertura,92,R$ 1.438,~12 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1068736,Jamaica Chopp,Boteco,G2,G2.2,225,Base ampla — potencial,33,R$ 2.259,~11 cx/mês,Zero|Monster|Cerveja|Eisenbahn,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qui,Média
 1068778,Bar Do Deley,Boteco,AN,AN.3,A37,Fortaleza de cobertura,100,R$ 1.358,~7 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
@@ -3081,7 +3081,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1076838,Comida Caseira Do Luiz,Restaurante,RV,RV.1,R16,Médio — desenvolvido,47,R$ 8.211,~51 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1076860,Merc Flamengo,As 1-4,RV,RV.2,R25,Fortaleza de cobertura,30,R$ 3.911,~27 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1076867,Cial Estrela,As 1-4,RV,RV.2,R21,Base ampla — potencial,22,R$ 5.870,~40 cx/mês,Coca 2L|Kapo|Monster|Cerveja,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qua,Média
-1076868,Pamonh Ki Delicia,Lanchonete,RV,RV.1,R15,Médio — desenvolvido,93,R$ 19.747,~142 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1076868,Pamonh Ki Delicia,Lanchonete,RV,RV.1,R15,Médio — desenvolvido,93,R$ 19.747,~142 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1076889,Merc Duarte,As 1-4,AP,AP.2,528,Médio — desenvolvido,56,R$ 13.840,~122 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1076899,Panif Pao Dourado,Padarias,G2,G2.1,211,Base ampla — cesta mínima,10,R$ 466,~2 cx/mês,Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1076900,Mr Maguiu Lanches,Lanchonete,G3,G3.1,312,Fortaleza de cobertura,87,R$ 3.065,~24 cx/mês,Zero|Kapo|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Seg - Qua,Alta
@@ -3160,7 +3160,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1078058,Casa De Carne Mendes,Mercearia,RI,RI.2,C23,Fortaleza de cobertura,46,R$ 2.616,~22 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1078097,Super Baby Mania,As 1-4,IT,IT.1,I14,Base ampla — cesta mínima,4,R$ 798,~5 cx/mês,Coca 2L|Kapo,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1078113,Rest Fogao A Lenha,Restaurante,SL,SL.1,S12,Médio — desenvolvido,87,R$ 6.046,~42 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
-1078163,Pegpag Marcelino,Mercearia,G2,G2.2,226,Base ampla — potencial,25,R$ 1.916,~13 cx/mês,Coca 2L|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1078163,Pegpag Marcelino,Mercearia,G2,G2.2,226,Base ampla — potencial,25,R$ 1.916,~13 cx/mês,Coca 2L|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1078195,Bar Fiuza,Boteco,IT,IT.1,I16,Fortaleza de cobertura,33,R$ 1.875,~14 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1078201,Jivago Choperia & Restaurante,Outros Canais,IT,IT.1,I13,Médio — a desenvolver,,R$ 8.407,~69 cx/mês,Coca 2L|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1078209,Bar Do Braz,Boteco,IT,IT.1,I13,Base ampla — cesta mínima,25,R$ 3.032,~20 cx/mês,Coca 2L|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
@@ -3702,7 +3702,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1086495,Merc Flores,As 1-4,G2,G2.1,217,Fortaleza de cobertura,59,R$ 2.575,~24 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Ter,Alta
 1086513,Merc Mini Preço,As 1-4,AN,AN.3,A37,Fortaleza de cobertura,26,R$ 2.769,~18 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1086519,Mercadinho São Felip,As 1-4,RV,RV.2,R26,Médio — desenvolvido,37,R$ 7.008,~73 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
-1086535,Casa Sonil,As 1-4,AN,AN.3,A36,Médio — desenvolvido,70,R$ 6.960,~57 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1086535,Casa Sonil,As 1-4,AN,AN.3,A36,Médio — desenvolvido,70,R$ 6.960,~57 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1086541,Bobs Quiosq Havan,Restaurante,AN,AN.1,T29,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Seg,
 1086569,Merc Ferreira,As 1-4,G1,G1.2,123,Médio — desenvolvido,26,R$ 14.079,~116 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1086575,Rest Sol Nascente,Restaurante,AN,AN.1,A15,Médio — desenvolvido,87,R$ 15.098,~110 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
@@ -3751,7 +3751,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1087441,Ismeril Bar,Boteco,AN,AN.3,A33,Base ampla — potencial,25,R$ 1.232,~12 cx/mês,Zero|Kapo|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1087461,Bobs Quiosq,Restaurante,AN,AN.1,T29,Base ampla — cesta mínima,40,R$ 2.604,~48 cx/mês,Zero,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg - Qua,Média
 1087492,Bar Soares,Boteco,UR,UR.1,U15,Fortaleza de cobertura,92,R$ 2.291,~13 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
-1087498,Peg Pag Brasil,As 1-4,RI,RI.1,C14,Médio — desenvolvido,89,R$ 7.147,~56 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1087498,Peg Pag Brasil,As 1-4,RI,RI.1,C14,Médio — desenvolvido,89,R$ 7.147,~56 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1087501,Supermercado Cambuim,As 1-4,RI,RI.1,C12,Fortaleza de cobertura,26,R$ 2.747,~26 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1087502,Mercado Avenida,As 1-4,PO,PO.1,O14,Grande conta,100,R$ 55.288,~458 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
 1087508,Quitanda Taina,Padarias,RV,RV.2,R21,Base ampla — cesta mínima,19,R$ 835,~8 cx/mês,Coca 2L|Kapo,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
@@ -3884,7 +3884,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1089395,Supermercado Potente,As 1-4,SL,SL.2,S22,Grande,70,R$ 29.974,~268 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1089397,Casa Da Linguica,As 1-4,SL,SL.2,S23,Fortaleza de cobertura,44,R$ 2.899,~23 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1089399,Super Zeze,As 1-4,RI,RI.2,C26,Médio — desenvolvido,93,R$ 7.482,~61 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
-1089400,B E S Supermercado,As 1-4,G1,G1.1,111,Grande,89,R$ 22.205,~207 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Não,Não,1ª compra pendente,,,0,0,NAO,Sex,
+1089400,B E S Supermercado,As 1-4,G1,G1.1,111,Grande,89,R$ 22.205,~207 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1089404,Js Espetinho,Lanchonete,G1,G1.1,111,Médio — desenvolvido,93,R$ 6.520,~44 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600|Sabores|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1089410,Bar Dois Irmãos,Boteco,SL,SL.2,S24,Base ampla — potencial,50,R$ 3.356,~28 cx/mês,Zero|Coca 2L|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1089415,Quitandas & Cia,Padarias,SL,SL.1,S16,Fortaleza de cobertura,57,R$ 2.625,~22 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
@@ -3921,7 +3921,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1089868,Koni Goiania,Restaurante,G3,G3.3,T17,Médio — desenvolvido,87,R$ 8.923,~94 cx/mês,Zero|Coca 2L,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter - Sex,Média
 1089905,Merc Sivirino,As 1-4,PA,PA.3,P36,Base ampla — potencial,19,R$ 1.278,~9 cx/mês,Zero|Coca 2L|Kapo|Monster,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1089928,Casa Carne Ki-Boi,Mercearia,RI,RI.1,C12,Fortaleza de cobertura,62,R$ 5.193,~47 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
-1089930,Mirangas,As 1-4,PO,PO.1,O11,Médio — desenvolvido,74,R$ 8.012,~60 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1089930,Mirangas,As 1-4,PO,PO.1,O11,Médio — desenvolvido,74,R$ 8.012,~60 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1089932,Georgia Hotel,Outros Canais,PO,PO.1,O13,Fortaleza de cobertura,,R$ 2.904,~25 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1089934,Supermercado Brasil,As 1-4,RI,RI.1,C14,Médio — desenvolvido,59,R$ 7.984,~73 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1089942,Supemercado Alas,As 1-4,UR,UR.2,U22,Médio — desenvolvido,70,R$ 12.399,~98 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
@@ -4060,7 +4060,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1091768,Peg Pag Sao Jorge,Mercearia,GU,GU.2,G21,Médio — desenvolvido,67,R$ 8.819,~75 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1091781,Sovelanches,Lanchonete,GU,GU.2,G22,Fortaleza de cobertura,100,R$ 3.290,~22 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1091787,Laboca Pizzaria E Restaurante,Restaurante,DI,DI.1,D13,Médio — desenvolvido,87,R$ 17.698,~132 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
-1091794,Bar Dos Advogados,Boteco,DI,DI.1,D15,Base ampla — cesta mínima,42,R$ 1.575,~13 cx/mês,Zero,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1091794,Bar Dos Advogados,Boteco,DI,DI.1,D15,Base ampla — cesta mínima,42,R$ 1.575,~13 cx/mês,Zero,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1091801,Bar Altas Horas,Boteco,DI,DI.1,D15,Médio — desenvolvido,100,R$ 10.119,~80 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1091803,Anexo Bar,Boteco,DI,DI.1,D13,Base ampla — potencial,33,R$ 1.578,~13 cx/mês,Zero|Coca 2L|Powerade,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1091809,Aabb Dianopolis,Outros Canais,DI,DI.1,D13,Fortaleza de cobertura,,R$ 3.997,~29 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
@@ -4086,7 +4086,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1091939,Pizzaria E Lanches,Lanchonete,GU,GU.2,G22,Fortaleza de cobertura,87,R$ 4.420,~36 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
 1091951,Posto Mourao,Lj. Conveniências,GU,GU.2,G22,Grande conta,,R$ 57.405,~441 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Não,Não,1ª compra pendente,,,0,0,NAO,Qui,
 1091955,Bar Do Levi,Boteco,GU,GU.2,G22,Médio — desenvolvido,100,R$ 8.945,~66 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
-1091956,Comercial Cardoso,As 1-4,GU,GU.2,G22,Grande,96,R$ 24.863,~233 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
+1091956,Comercial Cardoso,As 1-4,GU,GU.2,G22,Grande,96,R$ 24.863,~233 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1091960,Skinao Bar,Boteco,GU,GU.1,G17,Fortaleza de cobertura,83,R$ 2.973,~19 cx/mês,Zero|Coca 2L|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
 1091963,Panific Pao Nobre,Padarias,GU,GU.1,G17,Médio — desenvolvido,90,R$ 13.078,~106 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1091966,Bar Da Teresa,Outros Canais,GU,GU.1,G17,Base ampla — potencial,,R$ 987,~6 cx/mês,Zero|Coca 2L|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
@@ -4097,7 +4097,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1091978,Espeto Lanches,Outros Canais,GU,GU.1,G17,Base ampla — potencial,,R$ 1.383,~9 cx/mês,Zero|Coca 2L|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1091980,Restaurante Bom Sabor,Outros Canais,GU,GU.1,G17,Base ampla — potencial,,R$ 1.698,~10 cx/mês,Zero|Coca 2L|Powerade,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qui,Média
 1091988,Pit Dog Da Tia Eroina,Lanchonete,GU,GU.2,G23,Fortaleza de cobertura,60,R$ 2.088,~15 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
-1091995,Da Vo Supermercado,As 1-4,GU,GU.2,G24,Fortaleza de cobertura,44,R$ 3.595,~28 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1091995,Da Vo Supermercado,As 1-4,GU,GU.2,G24,Fortaleza de cobertura,44,R$ 3.595,~28 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1091997,Supermercado Coimbra,As 1-4,GU,GU.2,G23,Base ampla — cesta mínima,15,R$ 960,~6 cx/mês,Coca 2L|Kapo,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter,Média
 1092001,Bar Central Formoso,Boteco,GU,GU.2,G23,Base ampla — cesta mínima,8,R$ 584,~2 cx/mês,Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1092004,Auto Posto Jaburu,Lj. Conveniências,GU,GU.2,G23,Médio — desenvolvido,,R$ 7.035,~66 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
@@ -4607,7 +4607,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1097777,Ponto Dos Pasteis 2,Lanchonete,IT,IT.1,I14,Médio — desenvolvido,100,R$ 8.187,~59 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1097802,Fiori Restaurante,Restaurante,G2,G2.2,224,Fortaleza de cobertura,87,R$ 1.643,~9 cx/mês,Zero,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,Alta
 1097807,Bar E Rest Mourao,Outros Canais,G3,G3.1,314,Grande conta,,R$ 46.498,~398 cx/mês,Zero|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter - Qui,
-1097831,Banca Paixao,Outros Canais,IT,IT.1,I15,Fortaleza de cobertura,,R$ 853,~9 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1097831,Banca Paixao,Outros Canais,IT,IT.1,I15,Fortaleza de cobertura,,R$ 853,~9 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1097847,Pao De Queijo Nossa Senhora Piedade,Padarias,G1,G1.2,123,Grande,90,R$ 25.001,~170 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1097878,Sup Sete Mares,As 1-4,G1,G1.1,113,Médio — desenvolvido,96,R$ 13.107,~118 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1097889,Mercearia Tubarão,Mercearia,IT,IT.1,I11,Base ampla — potencial,4,R$ 1.026,~5 cx/mês,Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
@@ -5409,7 +5409,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1109838,Taco Bar,Boteco,PA,PA.1,P13,Médio — desenvolvido,100,R$ 15.574,~117 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1109841,Portal Goiano,Restaurante,RV,RV.2,R25,Fortaleza de cobertura,87,R$ 2.803,~27 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1109851,Supermercado Brasil,Mercearia,RV,RV.1,R13,Fortaleza de cobertura,0,R$ 1.120,~9 cx/mês,Coca 2L|Kapo|Powerade|Cerveja|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Ter,Alta
-1109857,Supermercado Bom Preço,As 1-4,GU,GU.1,G15,Médio — desenvolvido,74,R$ 14.592,~101 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1109857,Supermercado Bom Preço,As 1-4,GU,GU.1,G15,Médio — desenvolvido,74,R$ 14.592,~101 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1109873,Aldeia Studio Hair,Outros Canais,G2,G2.2,224,Base ampla — potencial,,R$ 1.328,~15 cx/mês,Zero|Monster|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,Média
 1109889,Mercado Boa Esperanca,As 1-4,AP,AP.2,524,Fortaleza de cobertura,22,R$ 1.600,~13 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1109903,Panificadora California,Boteco,AN,AN.2,A25,Fortaleza de cobertura,75,R$ 704,~6 cx/mês,Zero|Kapo,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
@@ -5505,7 +5505,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1110920,Mercearia Goias,As 1-4,AN,AN.3,A33,Médio — desenvolvido,22,R$ 8.287,~56 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1110926,Armazem Do Nilson,Lanchonete,AN,AN.3,A33,Fortaleza de cobertura,73,R$ 4.402,~39 cx/mês,Zero|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1110953,Super Sacolao Wl,Mercearia,MO,MO.1,M15,Fortaleza de cobertura,21,R$ 2.629,~21 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qua,Alta
-1110979,Panificadora Colute,Padarias,G1,G1.2,123,Médio — desenvolvido,74,R$ 10.332,~97 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1110979,Panificadora Colute,Padarias,G1,G1.2,123,Médio — desenvolvido,74,R$ 10.332,~97 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1110996,Fast Food Br Mania,Lj. Conveniências,PO,PO.1,O12,Médio — desenvolvido,,R$ 19.800,~191 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1111004,Comercial Mutum,As 1-4,PO,PO.1,O14,Grande,96,R$ 34.359,~256 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1111021,Merc Maia,As 1-4,RI,RI.2,C27,Fortaleza de cobertura,63,R$ 3.579,~25 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
@@ -5516,7 +5516,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1111067,Mercearia Coimbra,As 1-4,AP,AP.2,523,Fortaleza de cobertura,26,R$ 4.475,~29 cx/mês,Zero|Coca 2L|Powerade|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1111077,Divina Gula,Lanchonete,RI,RI.1,C11,Fortaleza de cobertura,87,R$ 4.497,~32 cx/mês,Zero|Kapo|Cerveja,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Seg,Alta
 1111081,Mercado Opção,As 1-4,AN,AN.3,A31,Fortaleza de cobertura,30,R$ 1.749,~15 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
-1111098,Kelly Bebidas,Mercearia,DI,DI.1,D15,Fortaleza de cobertura,29,R$ 1.954,~14 cx/mês,Zero|Coca 2L|Kapo|Powerade|Sabores|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
+1111098,Kelly Bebidas,Mercearia,DI,DI.1,D15,Fortaleza de cobertura,29,R$ 1.954,~14 cx/mês,Zero|Coca 2L|Kapo|Powerade|Sabores|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
 1111101,Supermercado Caetano,As 1-4,DI,DI.1,D12,Médio — desenvolvido,78,R$ 9.576,~78 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
 1111128,Bar Santa Luzia,Boteco,GU,GU.1,G14,Base ampla — cesta mínima,58,R$ 2.155,~22 cx/mês,Zero|Cerveja,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter,Média
 1111178,Barraca Do Sousa,Outros Canais,PA,PA.1,P14,Fortaleza de cobertura,,R$ 2.311,~17 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
@@ -5541,7 +5541,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1111362,Oca Do Açai,Lanchonete,SL,SL.1,S14,Base ampla — cesta mínima,33,R$ 470,~4 cx/mês,Zero|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1111363,Lanchonete Sao Luis,Lanchonete,SL,SL.1,S12,Médio — desenvolvido,93,R$ 8.346,~51 cx/mês,Zero|Coca 2L|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1111373,Pamonharia Gabriel,Lanchonete,PO,PO.1,O16,Fortaleza de cobertura,93,R$ 3.817,~30 cx/mês,Zero|Coca 2L,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
-1111382,Panificadora Serra Verde,Padarias,SL,SL.1,S13,Base ampla — potencial,31,R$ 1.404,~9 cx/mês,Zero|Coca 2L,Sim,Não,Recompra a reativar,,,0,0,SIM,Sex,
+1111382,Panificadora Serra Verde,Padarias,SL,SL.1,S13,Base ampla — potencial,31,R$ 1.404,~9 cx/mês,Zero|Coca 2L,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,
 1111388,Lanch Sov Karamelada,Lanchonete,G1,G1.2,126,Base ampla — cesta mínima,40,R$ 945,~9 cx/mês,,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1111400,Super Barros (Jd. Brasil),As 1-4,AP,AP.1,512,Grande,97,R$ 23.960,~240 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,,,0,0,NAO,Qui,
 1111409,Atacarejo Da Rocinha,As 1-4,G1,G1.2,124,Base ampla — potencial,19,R$ 2.573,~23 cx/mês,Zero|Coca 2L|Powerade|Monster,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
@@ -5971,7 +5971,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1116982,Bar Pai E Filho,Boteco,PA,PA.2,P25,Fortaleza de cobertura,67,R$ 1.924,~15 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1116989,Distrtibuidora Brasil,Adegas,G1,G1.1,115,Fortaleza de cobertura,,R$ 917,~6 cx/mês,Zero|Coca 2L|Monster|Cerveja|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qua,Alta
 1117012,Panificadora Modelo,Padarias,G1,G1.1,112,Base ampla — potencial,29,R$ 1.345,~13 cx/mês,Zero|Kapo|Powerade|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
-1117023,Amaral Distribuidora,Adegas,AN,AN.3,A36,Médio — desenvolvido,,R$ 8.767,~91 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1117023,Amaral Distribuidora,Adegas,AN,AN.3,A36,Médio — desenvolvido,,R$ 8.767,~91 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1117026,Bar E Mercearia Goianésia,As 1-4,RI,RI.2,C25,Médio — desenvolvido,89,R$ 11.698,~99 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qui,Média
 1117033,Armazém Pague Menos,Mercearia,G1,G1.1,117,Base ampla — potencial,0,R$ 1.170,~10 cx/mês,Coca 2L|Kapo|Cerveja|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1117038,Aromas Grill,Restaurante,RV,RV.1,R14,Grande,93,R$ 29.513,~196 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
@@ -6061,7 +6061,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1117930,Restaurante Bom Paladar,Restaurante,PA,PA.1,P15,Fortaleza de cobertura,73,R$ 5.855,~39 cx/mês,Zero|Coca 2L|Monster|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1117932,Toka Do Açai,Lanchonete,G1,G1.2,121,Base ampla — potencial,33,R$ 4.365,~33 cx/mês,Zero|Coca 2L|Powerade|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1117936,Distribuidora Resplande,Adegas,AP,AP.2,527,Base ampla — potencial,,R$ 602,~5 cx/mês,Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
-1117944,Chacrinha São José,Mercearia,G2,G2.2,223,Base ampla — potencial,4,R$ 2.428,~15 cx/mês,Zero|Coca 2L|Kapo,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1117944,Chacrinha São José,Mercearia,G2,G2.2,223,Base ampla — potencial,4,R$ 2.428,~15 cx/mês,Zero|Coca 2L|Kapo,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1117945,Mercearia Vitória,Mercearia,G2,G2.2,222,Fortaleza de cobertura,17,R$ 1.525,~16 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Sabores,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Seg,Alta
 1117948,Confeitaria Sonho Meu,Padarias,AP,AP.3,537,Fortaleza de cobertura,24,R$ 1.488,~12 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1117949,Ana´s Restaurante,Restaurante,AP,AP.3,536,Fortaleza de cobertura,80,R$ 2.196,~17 cx/mês,Zero|Coca 2L|Powerade,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
@@ -6222,7 +6222,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1119965,Bar Do Tamirim,Mercearia,SL,SL.1,S13,Base ampla — potencial,0,R$ 1.086,~11 cx/mês,Zero|Coca 2L|Cerveja|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1119973,Art Paladar,Restaurante,GU,GU.1,G13,Médio — desenvolvido,93,R$ 8.028,~55 cx/mês,Zero,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
 1119975,Impacto Som,Adegas,RV,RV.2,R25,Médio — desenvolvido,,R$ 13.891,~114 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,Média
-1119985,Ki Sabor Comida Caseira,Restaurante,RV,RV.1,R12,Fortaleza de cobertura,93,R$ 4.669,~26 cx/mês,Zero|Coca 2L|Powerade|Sabores|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1119985,Ki Sabor Comida Caseira,Restaurante,RV,RV.1,R12,Fortaleza de cobertura,93,R$ 4.669,~26 cx/mês,Zero|Coca 2L|Powerade|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1119989,Panif Pao Saboroso,Padarias,RI,RI.2,C24,Fortaleza de cobertura,50,R$ 2.724,~23 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1119992,Peg Pag Ipiranga,As 1-4,AN,AN.1,A15,Fortaleza de cobertura,37,R$ 5.309,~57 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Seg,Alta
 1120049,Frutaria Dois Irmãos,As 1-4,UR,UR.2,U22,Grande,96,R$ 35.136,~309 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
@@ -6368,7 +6368,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1121305,Super. E Dist. Entre Rios,As 1-4,MO,MO.1,M15,Grande,89,R$ 37.321,~346 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1121307,Aguas Do Paranoa,Outros Canais,MO,MO.2,M21,Grande,,R$ 21.088,~136 cx/mês,Zero|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1121312,Posto Complem,Lj. Conveniências,MO,MO.1,M12,Grande,,R$ 43.870,~351 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim (recadastrar),Sim,1ª compra feita este mês,—,"Cadastro precisa ser refeito, não consta mais na base",1,0,NAO,Sex,
-1121315,Supermecado Brotas,As 1-4,MO,MO.2,M26,Base ampla — potencial,6,R$ 1.842,~13 cx/mês,Kapo|Powerade|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1121315,Supermecado Brotas,As 1-4,MO,MO.2,M26,Base ampla — potencial,6,R$ 1.842,~13 cx/mês,Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1121326,Elisa Palace Hotel,Outros Canais,MO,MO.1,M14,Fortaleza de cobertura,,R$ 4.244,~41 cx/mês,Zero|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1121337,Restaurante Sorocaba,Restaurante,MO,MO.2,M26,Base ampla — cesta mínima,53,R$ 1.042,~8 cx/mês,Zero,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1121339,Panificadora Flor Do Trigo,Padarias,MO,MO.2,M24,Base ampla — potencial,26,R$ 2.367,~17 cx/mês,Coca 2L|Kapo|Powerade,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
@@ -6869,7 +6869,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1126432,Nova Opcao Lanch,Lanchonete,AP,AP.2,528,Fortaleza de cobertura,87,R$ 3.400,~29 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1126434,Super. Sul Norte,As 1-4,PA,PA.2,P25,Médio — desenvolvido,56,R$ 8.514,~67 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1126452,Leandro Chopp,Boteco,AP,AP.2,523,Fortaleza de cobertura,83,R$ 1.287,~7 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
-1126493,Panif Cabral,Padarias,G2,G2.2,222,Base ampla — potencial,24,R$ 1.594,~14 cx/mês,Zero|Coca 2L|Sabores,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1126493,Panif Cabral,Padarias,G2,G2.2,222,Base ampla — potencial,24,R$ 1.594,~14 cx/mês,Zero|Coca 2L|Sabores,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1126494,Cia Da Empada,Lanchonete,G3,G3.1,317,Base ampla — cesta mínima,53,R$ 2.766,~27 cx/mês,Zero|Kapo,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg - Qua,
 1126497,Casa Da Tapioca,Outros Canais,UR,UR.1,U14,Base ampla — potencial,,R$ 3.047,~28 cx/mês,Zero|Coca 2L|Powerade|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1126509,Mercabox Cristal,As 1-4,RI,RI.1,C14,Grande,96,R$ 33.576,~332 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
@@ -7071,7 +7071,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1128966,Distrib Zero Grau,Adegas,DI,DI.1,D13,Médio — desenvolvido,,R$ 14.199,~101 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter,Média
 1128969,Subway Flamboyant,Restaurante,G3,G3.3,T17,Grande,80,R$ 25.203,~311 cx/mês,Zero|Monster,Não,Não,1ª compra pendente,,,0,0,NAO,Seg - Qui,
 1128989,Mercado Jb,As 1-4,DI,DI.1,D13,Grande,93,R$ 21.920,~181 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Seg,
-1128993,Big Supermercado,As 1-4,DI,DI.1,D12,Médio — desenvolvido,59,R$ 9.074,~70 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1128993,Big Supermercado,As 1-4,DI,DI.1,D12,Médio — desenvolvido,59,R$ 9.074,~70 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1129049,Distribuidora Manos Beer,Adegas,G2,G2.1,211,Base ampla — cesta mínima,,R$ 220,~2 cx/mês,Zero|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1129068,Farmacia Do Trabalhador,Outros Canais,AP,AP.3,534,Fortaleza de cobertura,,R$ 860,~9 cx/mês,Zero|Coca 2L|Powerade|Monster|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,Alta
 1129079,Restaurante Gabriel,Restaurante,PA,PA.2,P24,Base ampla — cesta mínima,47,R$ 1.015,~7 cx/mês,Zero,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
@@ -7104,7 +7104,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1129404,Rest Almeida,Restaurante,AP,AP.3,536,Fortaleza de cobertura,100,R$ 4.617,~38 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
 1129409,Emporio Do Sabor,Lanchonete,G1,G1.2,122,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Sex,
 1129411,Bebidas Geladas Boa Vista,Boteco,RV,RV.2,R24,Fortaleza de cobertura,67,R$ 1.831,~21 cx/mês,Zero|Monster|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qua,Alta
-1129413,Casa De Carne Valencia,Mercearia,IT,IT.1,I11,Fortaleza de cobertura,0,R$ 2.057,~17 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1129413,Casa De Carne Valencia,Mercearia,IT,IT.1,I11,Fortaleza de cobertura,0,R$ 2.057,~17 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1129440,Comercial Costa,Boteco,AN,AN.1,A16,Fortaleza de cobertura,25,R$ 945,~6 cx/mês,Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1129442,Gracie Barra Silvânia,Outros Canais,AN,AN.3,A34,Base ampla — potencial,,R$ 1.105,~13 cx/mês,Zero|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1129444,Merc Tropical,Adegas,G1,G1.1,113,Base ampla — potencial,,R$ 530,~5 cx/mês,Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
@@ -7433,7 +7433,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1133119,Lanchonete Da Nedina,Lanchonete,RI,RI.1,C12,Médio — desenvolvido,87,R$ 15.924,~73 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Cerveja 600|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1133121,Restaurante Avenida,Restaurante,PO,PO.1,O15,Médio — desenvolvido,100,R$ 14.761,~89 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1133138,Pastelaria Soares,Lanchonete,AN,AN.2,A26,Médio — desenvolvido,93,R$ 9.338,~67 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
-1133148,Super Pratico,As 1-4,MO,MO.2,M26,Fortaleza de cobertura,22,R$ 4.881,~30 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1133148,Super Pratico,As 1-4,MO,MO.2,M26,Fortaleza de cobertura,22,R$ 4.881,~30 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1133149,Comercial De Paula,Mercearia,MO,MO.2,M26,Fortaleza de cobertura,33,R$ 1.785,~15 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1133169,Finnegans Music And Beer,Boteco,RV,RV.1,R14,Médio — desenvolvido,67,R$ 6.528,~37 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1133173,Super Lavandeira,As 1-4,DI,DI.1,D14,Médio — desenvolvido,85,R$ 18.037,~157 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,Média
@@ -7592,7 +7592,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1134689,Palhoca Lanches,Outros Canais,GU,GU.1,G15,Base ampla — potencial,,R$ 962,~6 cx/mês,Zero|Coca 2L|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,Média
 1134703,Emporio Goiano,As 1-4,G1,G1.2,123,Médio — desenvolvido,63,R$ 9.157,~79 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1134715,Bar Do Chorão,Boteco,G1,G1.1,111,Fortaleza de cobertura,75,R$ 4.916,~38 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
-1134717,Mercearia America,Adegas,G1,G1.1,111,Grande conta,,R$ 73.735,~794 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
+1134717,Mercearia America,Adegas,G1,G1.1,111,Grande conta,,R$ 73.735,~794 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1134738,Comercial Almeida,As 1-4,PA,PA.3,P33,Fortaleza de cobertura,4,R$ 1.770,~14 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qua,Alta
 1134764,Super Fartura Supermercad,As 1-4,G1,G1.2,123,Base ampla — potencial,7,R$ 2.128,~16 cx/mês,Zero|Coca 2L|Kapo|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1134777,Supermercado Oliveira,As 1-4,AN,AN.1,A13,Grande conta,100,R$ 80.126,~809 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
@@ -7822,7 +7822,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1137443,Neudys Bar,Boteco,RV,RV.1,R15,Médio — desenvolvido,100,R$ 20.229,~134 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1137445,Emporio Pai E Filho,Padarias,AN,AN.1,A16,Fortaleza de cobertura,45,R$ 1.891,~17 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1137458,Fantastica Paes,Padarias,G2,G2.2,227,Fortaleza de cobertura,36,R$ 3.345,~24 cx/mês,Zero|Coca 2L|Kapo|Powerade|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,Alta
-1137460,Panificadora Pao Kentao,Padarias,G3,G3.1,313,Médio — desenvolvido,64,R$ 13.541,~109 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua - Sex,Média
+1137460,Panificadora Pao Kentao,Padarias,G3,G3.1,313,Médio — desenvolvido,64,R$ 13.541,~109 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Qua - Sex,Média
 1137470,Bar Ipe,Boteco,SL,SL.2,S21,Fortaleza de cobertura,67,R$ 1.236,~10 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1137490,Comercial Atende Bem,As 1-4,GU,GU.2,G24,Grande,81,R$ 34.608,~295 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Seg,
 1137493,Casa De Carne Xico,Mercearia,UR,UR.1,U11,Fortaleza de cobertura,42,R$ 4.783,~44 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
@@ -7847,7 +7847,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1137676,Mega Matos Supermercado,As 1-4,PA,PA.3,P35,Grande conta,96,R$ 65.455,~521 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1137678,Ermenilde Restaurante E Lanchonete,Restaurante,PA,PA.2,P26,Fortaleza de cobertura,93,R$ 3.141,~19 cx/mês,Zero|Coca 2L|Powerade,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1137683,Pit Bar,Boteco,DI,DI.1,D14,Fortaleza de cobertura,50,R$ 1.780,~12 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
-1137711,Pet Shop Vida De Cao,Outros Canais,G3,G3.1,317,Fortaleza de cobertura,,R$ 713,~8 cx/mês,Zero|Coca 2L|Kapo|Powerade|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qua - Sex,Alta
+1137711,Pet Shop Vida De Cao,Outros Canais,G3,G3.1,317,Fortaleza de cobertura,,R$ 713,~8 cx/mês,Zero|Coca 2L|Kapo|Powerade|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Qua - Sex,Alta
 1137712,Tropical Lanches,Restaurante,PA,PA.1,P15,Médio — desenvolvido,87,R$ 20.458,~131 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1137719,Panificadora Menor Preço,Padarias,AN,AN.2,A22,Fortaleza de cobertura,55,R$ 3.741,~34 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1137724,Restaurante Dona Branca,Restaurante,SL,SL.2,S21,Fortaleza de cobertura,67,R$ 3.174,~21 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Ter,Alta
@@ -8169,7 +8169,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1140815,King Pasteis,Lanchonete,AP,AP.3,532,Médio — desenvolvido,87,R$ 15.134,~95 cx/mês,Zero|Coca 2L|Monster|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1140818,Dominos Pizza Anapolis,Restaurante,AN,AN.1,T29,Médio — desenvolvido,80,R$ 15.365,~126 cx/mês,Zero|Coca 2L|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg - Qua,Média
 1140825,Bar Alianca Drinques,Boteco,GU,GU.2,G24,Fortaleza de cobertura,58,R$ 717,~5 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
-1140826,Bar Divino Cabeludo,Boteco,GU,GU.2,G26,Base ampla — potencial,25,R$ 668,~6 cx/mês,Cerveja|Cerveja 600|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1140826,Bar Divino Cabeludo,Boteco,GU,GU.2,G26,Base ampla — potencial,25,R$ 668,~6 cx/mês,Cerveja|Cerveja 600|Sabores,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1140832,Drogaria Avila,Outros Canais,G1,G1.1,117,Base ampla — potencial,,R$ 694,~8 cx/mês,Zero|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1140834,Distribuidora Paraiso,Adegas,AP,AP.2,526,Base ampla — potencial,,R$ 3.449,~33 cx/mês,Coca 2L|Monster|Cerveja,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qua,Média
 1140836,Panificadora Primus,Lanchonete,SL,SL.2,S23,Médio — desenvolvido,87,R$ 6.037,~44 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
@@ -8577,7 +8577,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1145245,Gregorio Supermercado,As 1-4,AP,AP.1,515,Médio — desenvolvido,4,R$ 17.605,~185 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1145249,Emporio E Casa De Carne Camargo,As 1-4,AN,AN.2,A27,Fortaleza de cobertura,26,R$ 3.457,~25 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Sabores,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
 1145253,Comercial Aurora,As 1-4,AP,AP.3,537,Base ampla — potencial,0,R$ 1.437,~14 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
-1145302,Ice Bar,Boteco,G1,G1.2,122,Base ampla — potencial,25,R$ 1.336,~11 cx/mês,Coca 2L|Cerveja|Sabores|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1145302,Ice Bar,Boteco,G1,G1.2,122,Base ampla — potencial,25,R$ 1.336,~11 cx/mês,Coca 2L|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1145329,Supermercado J L,As 1-4,SL,SL.1,S14,Médio — desenvolvido,56,R$ 14.987,~117 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1145330,Dubairro Supermercado,As 1-4,PA,PA.1,P15,Grande conta,100,R$ 149.544,~1029 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1145362,Casa Do Vinho,Adegas,GU,GU.1,G13,Grande,,R$ 36.399,~282 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
@@ -9282,7 +9282,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1151899,Supermercado Baratao,As 1-4,G1,G1.2,127,Base ampla — potencial,22,R$ 3.112,~23 cx/mês,Zero|Coca 2L|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1151912,Variedades Galvão,Mercearia,AP,AP.3,531,Base ampla — potencial,4,R$ 1.263,~10 cx/mês,Coca 2L|Kapo|Cerveja|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1151947,Conveniencia Atlanta,Lj. Conveniências,RV,RV.1,R13,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Seg,
-1151950,Lanche Expresso,Lanchonete,G3,G3.2,324,Médio — desenvolvido,93,R$ 8.344,~64 cx/mês,Zero|Coca 2L|Powerade|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1151950,Lanche Expresso,Lanchonete,G3,G3.2,324,Médio — desenvolvido,93,R$ 8.344,~64 cx/mês,Zero|Coca 2L|Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1151955,Mercearia Araujo,Outros Canais,G1,G1.1,112,Fortaleza de cobertura,,R$ 4.053,~27 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1151959,Luma Emporio E Bebidas,Adegas,G2,G2.1,214,Base ampla — cesta mínima,,R$ 138,~2 cx/mês,Coca 2L,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1151963,Super Soares,As 1-4,DI,DI.1,D11,Fortaleza de cobertura,19,R$ 1.259,~9 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,Alta
@@ -9745,7 +9745,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1155394,Restaurante Soberano,Restaurante,G2,G2.2,221,Médio — desenvolvido,93,R$ 20.466,~114 cx/mês,Zero|Coca 2L|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,Média
 1155396,Restaurante Tempero Gaúcho,Restaurante,G2,G2.2,222,Fortaleza de cobertura,87,R$ 3.875,~26 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,Alta
 1155404,Restaurante La Brasa,Restaurante,AP,AP.2,521,Fortaleza de cobertura,80,R$ 2.649,~17 cx/mês,Zero|Coca 2L|Cerveja|Sabores|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qui,Alta
-1155410,Delícias Do Norte,Restaurante,G3,G3.2,325,Fortaleza de cobertura,93,R$ 3.749,~35 cx/mês,Zero|Coca 2L|Monster,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1155410,Delícias Do Norte,Restaurante,G3,G3.2,325,Fortaleza de cobertura,93,R$ 3.749,~35 cx/mês,Zero|Coca 2L|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1155421,Imperio Lanches,Padarias,UR,UR.2,U25,Fortaleza de cobertura,81,R$ 5.269,~41 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,Alta
 1155432,Lanchonete Esquinas,Boteco,SL,SL.1,S15,Fortaleza de cobertura,83,R$ 2.854,~23 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1155467,Restaurante Nutrisal,Restaurante,RV,RV.2,R24,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qua,
@@ -10549,7 +10549,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1161578,Super Elo,As 1-4,MO,MO.1,M15,Fortaleza de cobertura,33,R$ 3.529,~35 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1161580,Zero Grau,Adegas,IT,IT.2,I25,Base ampla — potencial,,R$ 2.387,~21 cx/mês,Zero|Coca 2L|Cerveja|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
 1161581,Mercearia Ki Sabor,As 1-4,RV,RV.2,R25,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
-1161584,Agape Hotelaria,Outros Canais,RV,RV.1,R12,Base ampla — cesta mínima,,R$ 988,~11 cx/mês,Zero|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1161584,Agape Hotelaria,Outros Canais,RV,RV.1,R12,Base ampla — cesta mínima,,R$ 988,~11 cx/mês,Zero|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1161587,Bar Pantanal,Boteco,AP,AP.2,522,Fortaleza de cobertura,42,R$ 1.447,~11 cx/mês,Zero|Coca 2L|Monster|Cerveja|Sabores|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Seg,Alta
 1161588,Pastel 10,Lanchonete,PA,PA.1,P12,Fortaleza de cobertura,93,R$ 2.289,~16 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1161591,Brothers Hamburg,Lanchonete,GU,GU.2,G24,Base ampla — potencial,27,R$ 1.141,~11 cx/mês,Zero|Kapo|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qui,Média
@@ -10674,7 +10674,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1162512,Casa De Carne Mercearia Jg,Mercearia,MO,MO.1,M11,Base ampla — potencial,21,R$ 1.156,~9 cx/mês,Coca 2L|Cerveja|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1162517,Elvin Dist E Mercearia,Adegas,G2,G2.1,217,Fortaleza de cobertura,,R$ 3.662,~33 cx/mês,Zero|Coca 2L|Cerveja|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Ter,Alta
 1162526,Hotel Oft Garden,Outros Canais,G3,G3.1,317,Médio — a desenvolver,,R$ 6.416,~54 cx/mês,Zero|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg - Qua,Média
-1162532,Cia Lanches,Lanchonete,PA,PA.3,P34,Médio — desenvolvido,93,R$ 7.174,~56 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1162532,Cia Lanches,Lanchonete,PA,PA.3,P34,Médio — desenvolvido,93,R$ 7.174,~56 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1162536,Lider Supermercado,As 1-4,UR,UR.1,U13,Grande,100,R$ 24.163,~237 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,,,0,0,NAO,Sex,
 1162538,Atacado Carneiro,As 1-4,PA,PA.3,P31,Grande conta,69,R$ 483.359,~3492 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1162543,Entre Posto,Lj. Conveniências,G1,G1.2,124,Fortaleza de cobertura,,R$ 4.254,~56 cx/mês,Zero|Coca 2L|Monster|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Seg,Alta
@@ -10732,7 +10732,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1162909,Atacarejo União,As 1-4,UR,UR.1,U12,Médio — desenvolvido,81,R$ 15.376,~148 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,Média
 1162915,El Shaddai,As 1-4,GU,GU.2,G24,Médio — desenvolvido,85,R$ 13.266,~108 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qua,Média
 1162916,Comercial 2f,Mercearia,RV,RV.2,R25,Médio — desenvolvido,29,R$ 7.361,~46 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
-1162919,Salao Tesoura De Ouro,Outros Canais,RV,RV.1,R16,Base ampla — potencial,,R$ 1.203,~9 cx/mês,Zero|Coca 2L|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1162919,Salao Tesoura De Ouro,Outros Canais,RV,RV.1,R16,Base ampla — potencial,,R$ 1.203,~9 cx/mês,Zero|Coca 2L|Monster|Cerveja,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1162923,Pamonharia Familia,Outros Canais,G2,G2.1,214,Fortaleza de cobertura,,R$ 1.487,~12 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1162932,Mercado Novo,As 1-4,GU,GU.1,G16,Médio — desenvolvido,30,R$ 6.108,~43 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1162946,Barretos Bebidas,As 1-4,RV,RV.2,R23,Grande,96,R$ 42.691,~367 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Seg,
@@ -10951,7 +10951,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1164586,Comercial Rivera,Mercearia,AN,AN.1,A16,Médio — desenvolvido,50,R$ 6.079,~53 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1164593,Mercadinho Esperanca,As 1-4,AN,AN.1,A16,Fortaleza de cobertura,7,R$ 2.793,~18 cx/mês,Coca 2L|Kapo|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1164594,Ferruginha Bar E Restaurante,Restaurante,RV,RV.1,R14,Médio — desenvolvido,100,R$ 11.046,~59 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
-1164635,Point Do Açai,Outros Canais,SL,SL.2,S25,Base ampla — potencial,,R$ 2.058,~15 cx/mês,Zero|Coca 2L|Kapo|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1164635,Point Do Açai,Outros Canais,SL,SL.2,S25,Base ampla — potencial,,R$ 2.058,~15 cx/mês,Zero|Coca 2L|Kapo|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1164638,Mercearia Claudia,As 1-4,SL,SL.2,S22,Médio — desenvolvido,30,R$ 11.144,~86 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1164639,Lanchonete Posse,Lj. Conveniências,G1,G1.2,121,Grande,,R$ 42.512,~301 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,,,0,0,NAO,Ter,
 1164645,Mercearia Dia E Noite,Mercearia,PO,PO.1,O11,Médio — desenvolvido,8,R$ 7.029,~62 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,Média
@@ -11003,7 +11003,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1164959,Manda Pizza Passeio Das Aguas Shopp,Restaurante,G3,G3.2,323,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qua,
 1164976,Rubinho Bebibas Geladas,Adegas,RV,RV.1,R14,Grande conta,,R$ 78.035,~717 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1164986,Dist Da Janaina,Adegas,G2,G2.2,222,Base ampla — potencial,,R$ 2.660,~17 cx/mês,Zero|Coca 2L|Cerveja|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
-1164995,Supermercado Bom Preco,As 1-4,AN,AN.3,A35,Fortaleza de cobertura,19,R$ 3.361,~36 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1164995,Supermercado Bom Preco,As 1-4,AN,AN.3,A35,Fortaleza de cobertura,19,R$ 3.361,~36 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1164996,Cajui Lanches E Pamonhas,Lanchonete,AN,AN.3,A35,Médio — desenvolvido,100,R$ 11.605,~101 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1164999,Mercearia E Lanchonete Padre Cicero,Lanchonete,AN,AN.2,A22,Fortaleza de cobertura,60,R$ 2.031,~12 cx/mês,Zero|Coca 2L|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1165004,Mercearia E Distribuidora Beba Mais,As 1-4,PA,PA.2,P27,Fortaleza de cobertura,48,R$ 5.683,~31 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
@@ -11314,7 +11314,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1167160,Feijoada Da Marli,Boteco,IT,IT.1,I12,Base ampla — potencial,0,R$ 921,~5 cx/mês,Coca 2L|Kapo|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1167173,Rest Pimenta De Cheiro,Restaurante,IT,IT.1,I14,Fortaleza de cobertura,87,R$ 3.292,~23 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,Alta
 1167176,Pereira Hotel E Restaurante,Outros Canais,UR,UR.2,U21,Fortaleza de cobertura,,R$ 2.280,~24 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
-1167184,Drogamed Goias,Outros Canais,UR,UR.2,U23,Base ampla — cesta mínima,,R$ 518,~5 cx/mês,Powerade|Monster,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1167184,Drogamed Goias,Outros Canais,UR,UR.2,U23,Base ampla — cesta mínima,,R$ 518,~5 cx/mês,Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1167191,Mini Box Borges,As 1-4,G2,G2.1,216,Fortaleza de cobertura,26,R$ 4.206,~38 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qua,Alta
 1167194,Caseratto Passeio Das Águas,Restaurante,G3,G3.2,323,Grande conta,93,R$ 70.456,~532 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1167198,Lanch Castro,Lanchonete,G1,G1.2,123,Fortaleza de cobertura,93,R$ 5.729,~43 cx/mês,Zero|Coca 2L|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,Alta
@@ -11336,7 +11336,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1167381,Brasa Hamburgueria,Lanchonete,GU,GU.1,G16,Fortaleza de cobertura,87,R$ 5.850,~53 cx/mês,Zero,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1167386,Cia Do Chocolateria,Outros Canais,G1,G1.2,126,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Ter,
 1167390,Merc Lilica,Mercearia,AP,AP.2,526,Base ampla — potencial,0,R$ 968,~7 cx/mês,Coca 2L|Kapo|Powerade|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
-1167402,Comercial Girassol,As 1-4,RV,RV.2,R21,Médio — desenvolvido,52,R$ 7.238,~61 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1167402,Comercial Girassol,As 1-4,RV,RV.2,R21,Médio — desenvolvido,52,R$ 7.238,~61 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1167406,Mercearia Do Nildo,Mercearia,RV,RV.1,R16,Base ampla — potencial,8,R$ 1.675,~12 cx/mês,Coca 2L|Kapo|Monster|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1167410,Bar Da Praca,Outros Canais,MO,MO.1,M14,Base ampla — potencial,,R$ 4.478,~20 cx/mês,Zero|Monster|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1167415,Rainha Das Coxas,Outros Canais,AN,AN.2,A24,Base ampla — potencial,,R$ 320,~2 cx/mês,Zero|Coca 2L,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,Média
@@ -11369,7 +11369,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1167638,Super Agropecuario Ii,As 1-4,SL,SL.1,S11,Médio — desenvolvido,74,R$ 12.328,~85 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1167645,Bar Do Marronzinho,Boteco,G1,G1.2,123,Base ampla — cesta mínima,58,R$ 2.880,~16 cx/mês,Zero,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1167662,Cantinho Do Sabor,Restaurante,DI,DI.1,D13,Base ampla — cesta mínima,27,R$ 318,~2 cx/mês,Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
-1167665,Panif Pro Pao,Padarias,DI,DI.1,D15,Base ampla — cesta mínima,33,R$ 2.167,~17 cx/mês,Kapo|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1167665,Panif Pro Pao,Padarias,DI,DI.1,D15,Base ampla — cesta mínima,33,R$ 2.167,~17 cx/mês,Kapo|Monster,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1167668,Casa Pereira I,As 1-4,DI,DI.1,D13,Base ampla — potencial,37,R$ 4.177,~32 cx/mês,Zero|Coca 2L|Kapo|Powerade,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1167669,Balneario Douradas,Boteco,DI,DI.1,D14,Fortaleza de cobertura,83,R$ 4.796,~48 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1167671,Drog Menor Preco,Outros Canais,DI,DI.1,D13,Fortaleza de cobertura,,R$ 1.502,~13 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,Alta
@@ -11489,7 +11489,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1168530,Merc E Dist. Do Bido,Mercearia,PA,PA.2,P22,Fortaleza de cobertura,54,R$ 5.678,~49 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1168537,Le Pf Rest E Lanch,Restaurante,AP,AP.2,522,Médio — desenvolvido,100,R$ 19.489,~138 cx/mês,Zero|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1168550,Sabor De Mel Lanch,Lanchonete,AP,AP.3,535,Fortaleza de cobertura,87,R$ 1.557,~15 cx/mês,Zero|Coca 2L,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
-1168572,Tempero Mineiro,Restaurante,G3,G3.1,315,Base ampla — cesta mínima,47,R$ 1.229,~8 cx/mês,Zero|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua - Sex,Média
+1168572,Tempero Mineiro,Restaurante,G3,G3.1,315,Base ampla — cesta mínima,47,R$ 1.229,~8 cx/mês,Zero|Monster,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Qua - Sex,Média
 1168598,Bar Contra Mão,Boteco,PO,PO.1,O13,Base ampla — potencial,33,R$ 799,~4 cx/mês,Cerveja|Cerveja 600|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1168600,O Baratão Comercial,As 1-4,PO,PO.1,O18,Grande,89,R$ 23.133,~170 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,,,0,0,NAO,Seg,
 1168621,Pesque Pague Tambaqui,Lanchonete,RI,RI.1,C13,Grande,73,R$ 25.749,~135 cx/mês,Zero|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores,Não,Não,1ª compra pendente,,,0,0,NAO,Qua,
@@ -11542,7 +11542,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1168885,Mercearia Ferreira,As 1-4,AN,AN.2,A22,Fortaleza de cobertura,37,R$ 4.359,~50 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1168888,Saullo Pizzaria,Restaurante,RI,RI.2,C24,Médio — desenvolvido,100,R$ 9.898,~64 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1168898,Bar E Espetinho Da Sonia,Adegas,AP,AP.2,522,Base ampla — potencial,,R$ 1.117,~8 cx/mês,Zero|Coca 2L|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
-1168909,Bgm - Bebida Gelada Do Mestre,Adegas,IT,IT.2,I24,Médio — desenvolvido,,R$ 8.314,~67 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1168909,Bgm - Bebida Gelada Do Mestre,Adegas,IT,IT.2,I24,Médio — desenvolvido,,R$ 8.314,~67 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Sabores,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1168912,Cantinho Do Ceu,Boteco,RV,RV.2,R21,Fortaleza de cobertura,50,R$ 1.338,~7 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
 1168925,Bar E Lanchonete Convenções,Lanchonete,G3,G3.1,317,Fortaleza de cobertura,60,R$ 1.606,~10 cx/mês,Zero|Powerade,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg - Qua,
 1168927,Panif Promessa,Padarias,GU,GU.2,G25,Grande,100,R$ 25.426,~215 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
@@ -11651,7 +11651,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1169672,Peg Pag Estrela,As 1-4,G3,G3.1,313,Grande,0,R$ 28.871,~519 cx/mês,ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua - Sex,
 1169687,Escritorio Do Galize,Boteco,UR,UR.1,U13,Fortaleza de cobertura,75,R$ 5.007,~39 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1169688,Mercearia Potiguar,Mercearia,AP,AP.2,526,Base ampla — potencial,0,R$ 1.135,~8 cx/mês,Zero|Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
-1169690,Comercial Mendanha,As 1-4,G1,G1.1,111,Médio — desenvolvido,52,R$ 16.273,~150 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1169690,Comercial Mendanha,As 1-4,G1,G1.1,111,Médio — desenvolvido,52,R$ 16.273,~150 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1169691,Santa Fé Lanches,Boteco,RI,RI.1,C11,Fortaleza de cobertura,83,R$ 2.352,~18 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1169693,Atacarejo De Bebidas 2,Adegas,AN,AN.3,A36,Base ampla — potencial,,R$ 1.627,~16 cx/mês,Coca 2L|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1169697,Sacolão Ponto Certo,Mercearia,PO,PO.1,O18,Médio — desenvolvido,67,R$ 10.450,~74 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,Média
@@ -11679,7 +11679,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1169952,Mercabox Teodoro,As 1-4,RI,RI.1,C14,Médio — desenvolvido,78,R$ 16.888,~138 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
 1169954,Restaurante Comida Caseira,Outros Canais,AP,AP.2,528,Base ampla — cesta mínima,,R$ 856,~5 cx/mês,Zero|Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1169960,Comercial Premium Alimentos E Bebid,Adegas,G2,G2.2,227,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Sex,
-1169963,Marco'S Gas E Bebidas,Adegas,RV,RV.2,R23,Grande,,R$ 30.873,~282 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Sex,
+1169963,Marco'S Gas E Bebidas,Adegas,RV,RV.2,R23,Grande,,R$ 30.873,~282 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,
 1169966,Bebida Gelada Open Bar,Adegas,RV,RV.1,R15,Fortaleza de cobertura,,R$ 4.066,~27 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,Alta
 1169969,Cial Silva E Cia,Mercearia,DI,DI.1,D13,Fortaleza de cobertura,42,R$ 3.406,~24 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1169971,Pizzaria Margherita,Restaurante,AN,AN.3,A37,Fortaleza de cobertura,73,R$ 1.952,~18 cx/mês,Zero|Kapo|Powerade|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
@@ -11713,7 +11713,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1170161,Supermercado Doce Lar,As 1-4,UR,UR.1,U12,Médio — desenvolvido,67,R$ 20.942,~172 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1170163,Pous Confluencia,Outros Canais,DI,DI.1,D12,Base ampla — cesta mínima,,R$ 706,~9 cx/mês,Zero|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1170169,Espetinho Do Carteiro,Outros Canais,UR,UR.1,U13,Médio — a desenvolver,,R$ 19.933,~151 cx/mês,Zero|Coca 2L|Kapo|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
-1170170,Distr E Merc Do Celado,As 1-4,PO,PO.1,O14,Médio — desenvolvido,48,R$ 19.700,~180 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Sabores,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1170170,Distr E Merc Do Celado,As 1-4,PO,PO.1,O14,Médio — desenvolvido,48,R$ 19.700,~180 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Sabores,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1170181,Lanch Altas Horas,Outros Canais,IT,IT.2,I25,Base ampla — cesta mínima,,R$ 628,~2 cx/mês,Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1170183,Empório Cristo Rei,Mercearia,MO,MO.2,M23,Base ampla — potencial,0,R$ 685,~3 cx/mês,Zero|Coca 2L,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
 1170187,Supermercado Pontes,As 1-4,AP,AP.2,525,Médio — desenvolvido,70,R$ 8.177,~74 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
@@ -11948,7 +11948,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1171635,Super Coaba,As 1-4,IT,IT.2,I23,Médio — desenvolvido,22,R$ 6.297,~51 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1171654,Padoca Panificadora,Padarias,G1,G1.1,115,Base ampla — cesta mínima,31,R$ 1.534,~11 cx/mês,Zero|Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
 1171655,Empório Atende Mais,Mercearia,G2,G2.2,225,Base ampla — potencial,12,R$ 2.030,~17 cx/mês,Zero|Coca 2L|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
-1171658,Distribuidora Guerreiro Beer,Adegas,AP,AP.2,521,Base ampla — potencial,,R$ 2.053,~17 cx/mês,Coca 2L|Powerade|Cerveja,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1171658,Distribuidora Guerreiro Beer,Adegas,AP,AP.2,521,Base ampla — potencial,,R$ 2.053,~17 cx/mês,Coca 2L|Powerade|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1171662,Buteco Zero Grau,Boteco,SL,SL.1,S15,Fortaleza de cobertura,83,R$ 5.159,~35 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,Alta
 1171673,Espetinho E Restaurante Do Cosmim,Restaurante,G2,G2.2,227,Base ampla — cesta mínima,53,R$ 5.690,~24 cx/mês,Zero|Sabores,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter,Média
 1171679,Delícia Panificadora,Padarias,G2,G2.1,213,Médio — desenvolvido,88,R$ 15.866,~124 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qua,Média
@@ -12132,7 +12132,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1172680,Farmacia Cristina,Outros Canais,G1,G1.2,121,Base ampla — potencial,,R$ 990,~9 cx/mês,Zero|Powerade|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1172682,Mercearia Ki Delicia,Mercearia,RI,RI.1,C12,Médio — desenvolvido,79,R$ 13.786,~121 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1172685,Puro Malte Cervejaria,Outros Canais,PA,PA.3,P35,Fortaleza de cobertura,,R$ 1.807,~16 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
-1172689,Rey Farma,Outros Canais,PA,PA.3,P32,Fortaleza de cobertura,,R$ 5.335,~45 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1172689,Rey Farma,Outros Canais,PA,PA.3,P32,Fortaleza de cobertura,,R$ 5.335,~45 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1172697,W A Casa De Carnes,Mercearia,AP,AP.3,535,Fortaleza de cobertura,33,R$ 4.088,~31 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Seg,Alta
 1172699,Empório Saidera,Adegas,AP,AP.2,522,Base ampla — potencial,,R$ 1.201,~7 cx/mês,Coca 2L|Kapo,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1172700,Bar E Distribuidora Silva,Adegas,AP,AP.2,521,Base ampla — potencial,,R$ 3.978,~22 cx/mês,Zero|Coca 2L|Kapo|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
@@ -12608,7 +12608,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1175690,Central Bar,Boteco,PA,PA.2,P24,Fortaleza de cobertura,75,R$ 1.868,~16 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1175692,Merc Conv Altas Horas,As 1-4,RI,RI.1,C16,Base ampla — cesta mínima,0,R$ 802,~4 cx/mês,Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1175697,Distribuidora E Conveniencia Elite,Adegas,G2,G2.2,221,Base ampla — potencial,,R$ 629,~5 cx/mês,Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
-1175702,Itapaci Choop,Boteco,RI,RI.1,C14,Médio — desenvolvido,92,R$ 11.198,~82 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1175702,Itapaci Choop,Boteco,RI,RI.1,C14,Médio — desenvolvido,92,R$ 11.198,~82 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1175713,Mercearia 3 Irmaos,Mercearia,DI,DI.1,D13,Base ampla — potencial,12,R$ 733,~5 cx/mês,Coca 2L|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1175722,Restaurante Avenida,Restaurante,RI,RI.1,C16,Base ampla — cesta mínima,53,R$ 3.048,~18 cx/mês,Zero|Coca 2L,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1175727,Seu Vizinho Mercearia E Distribuido,Mercearia,G2,G2.2,227,Base ampla — potencial,0,R$ 307,~2 cx/mês,Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
@@ -13142,7 +13142,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1179053,Emporio Latao 350,Adegas,RV,RV.2,R22,Fortaleza de cobertura,,R$ 733,~6 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Cerveja 600|Eisenbahn,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Seg,Alta
 1179056,No Grau Beer,Adegas,RV,RV.1,R12,Médio — desenvolvido,,R$ 7.721,~69 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1179064,Delicias Da Mônica,Mercearia,G1,G1.2,121,Base ampla — cesta mínima,0,R$ 1.990,~14 cx/mês,Zero|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
-1179068,Efesios Barbearia,Outros Canais,IT,IT.2,I22,Base ampla — potencial,,R$ 366,~4 cx/mês,Kapo|Powerade|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1179068,Efesios Barbearia,Outros Canais,IT,IT.2,I22,Base ampla — potencial,,R$ 366,~4 cx/mês,Kapo|Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1179069,Mini Box 409,As 1-4,PA,PA.1,P13,Médio — desenvolvido,81,R$ 18.901,~127 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1179073,Restaurante Real Paladar,Outros Canais,AP,AP.2,522,Fortaleza de cobertura,,R$ 2.737,~18 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1179076,Beb Gelada Buriti,As 1-4,RV,RV.2,R22,Médio — desenvolvido,78,R$ 18.298,~181 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
@@ -13677,7 +13677,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1181974,Barbearia 4 De Julho,Outros Canais,MO,MO.2,M24,Fortaleza de cobertura,,R$ 1.231,~11 cx/mês,Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1181975,Mercearia Vitória,Mercearia,AN,AN.3,A35,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Ter,
 1181981,Du Pão Lanches,Lanchonete,G2,G2.1,217,Médio — desenvolvido,100,R$ 6.952,~50 cx/mês,Zero|Coca 2L|Monster|Cerveja|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
-1181982,Pamonharia Espiga Dourada,Outros Canais,G2,G2.2,227,Base ampla — potencial,,R$ 2.722,~20 cx/mês,Zero|Coca 2L|Kapo|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1181982,Pamonharia Espiga Dourada,Outros Canais,G2,G2.2,227,Base ampla — potencial,,R$ 2.722,~20 cx/mês,Zero|Coca 2L|Kapo|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1181994,Comercial Naves,Mercearia,AN,AN.1,A14,Fortaleza de cobertura,8,R$ 2.685,~16 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1181998,Foguete Moto Pecas,Outros Canais,PA,PA.1,P13,Base ampla — potencial,,R$ 731,~4 cx/mês,Zero|Coca 2L|Kapo|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1182001,Panificadora Cia Do Pao,Lanchonete,PA,PA.2,P27,Fortaleza de cobertura,87,R$ 5.015,~38 cx/mês,Zero|Coca 2L|Kapo|Powerade,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
@@ -13773,13 +13773,13 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1182479,Supermercado Freitas,As 1-4,AN,AN.2,A27,Médio — desenvolvido,63,R$ 15.455,~163 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1182481,Açougue Moura,Mercearia,GU,GU.2,G26,Fortaleza de cobertura,38,R$ 4.547,~36 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
 1182484,Emporio Wl Bolos E Cia,Padarias,MO,MO.1,M15,Fortaleza de cobertura,40,R$ 5.124,~35 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Ter,Alta
-1182488,M M Conveniencia Distr De Bebida,Adegas,GU,GU.1,G15,Médio — desenvolvido,,R$ 10.219,~74 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1182488,M M Conveniencia Distr De Bebida,Adegas,GU,GU.1,G15,Médio — desenvolvido,,R$ 10.219,~74 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1182503,Martinreis,As 1-4,AN,AN.1,A14,Grande,96,R$ 22.259,~180 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1182505,Espetaria Do Gaucho,Lanchonete,PA,PA.1,P14,Médio — desenvolvido,73,R$ 7.283,~45 cx/mês,Zero,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1182506,Rota 17 Grill,Boteco,UR,UR.1,U12,Médio — desenvolvido,100,R$ 7.337,~54 cx/mês,Zero|Coca 2L|Kapo|Monster,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1182516,Super Daqui,As 1-4,SL,SL.1,S16,Fortaleza de cobertura,7,R$ 3.259,~33 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1182521,Panif Sabor Do Trigo,Padarias,SL,SL.2,S21,Grande,100,R$ 31.875,~254 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,Recompra a reativar,,,0,0,SIM,Ter - Sex,
-1182526,Al Mercearia,As 1-4,AN,AN.3,A33,Médio — desenvolvido,70,R$ 19.613,~135 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1182526,Al Mercearia,As 1-4,AN,AN.3,A33,Médio — desenvolvido,70,R$ 19.613,~135 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1182527,Picanha´s Restaurante,Restaurante,RV,RV.1,R15,Médio — desenvolvido,100,R$ 8.447,~39 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1182533,Lanchonete Central,Lanchonete,G2,G2.1,213,Médio — desenvolvido,100,R$ 6.630,~47 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1182540,Borracharia Do Buiu,Outros Canais,PA,PA.1,P12,Base ampla — cesta mínima,,R$ 341,~3 cx/mês,Powerade,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
@@ -13821,7 +13821,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1182788,Loja De Fabrica Pao De Goias,Padarias,G2,G2.2,223,Grande,86,R$ 32.742,~249 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,1ª compra pendente,,,0,0,SIM,Seg,
 1182792,Quitandas Caseiras,Lanchonete,UR,UR.1,U12,Médio — desenvolvido,100,R$ 13.169,~116 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1182802,Distribuidora Pontal,Adegas,AP,AP.2,523,Base ampla — potencial,,R$ 925,~6 cx/mês,Coca 2L|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
-1182805,Gas Royal,Adegas,IT,IT.2,I25,Grande,,R$ 27.633,~249 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Sex,
+1182805,Gas Royal,Adegas,IT,IT.2,I25,Grande,,R$ 27.633,~249 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,
 1182810,Restaurante Maria,Restaurante,G1,G1.2,122,Fortaleza de cobertura,87,R$ 4.890,~36 cx/mês,Zero|Coca 2L|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,Alta
 1182813,Restaurante Espetao Ponto Do Churra,Restaurante,PA,PA.1,P15,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Seg,
 1182814,Real Society,Lanchonete,PA,PA.3,P31,Fortaleza de cobertura,67,R$ 736,~8 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
@@ -13902,7 +13902,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1183248,Espetinho Delicias Da Ana,Outros Canais,RV,RV.1,R16,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Ter,
 1183255,Mercearia E Distribuidora K,Mercearia,G2,G2.1,214,Base ampla — potencial,12,R$ 1.066,~9 cx/mês,Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1183260,Mercearia Batista,Mercearia,G1,G1.1,111,Fortaleza de cobertura,4,R$ 2.046,~10 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
-1183286,Emporio Di Paula,Mercearia,G2,G2.2,221,Fortaleza de cobertura,8,R$ 1.789,~14 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1183286,Emporio Di Paula,Mercearia,G2,G2.2,221,Fortaleza de cobertura,8,R$ 1.789,~14 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1183300,La Coimbra Bar,Boteco,G3,G3.2,324,Base ampla — potencial,33,R$ 694,~5 cx/mês,Zero|Powerade,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1183303,Pinguim De Gravata,Lj. Conveniências,PA,PA.3,P31,Fortaleza de cobertura,,R$ 1.619,~14 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1183304,Dist De Beidas Mg,Adegas,GU,GU.1,G16,Fortaleza de cobertura,,R$ 3.871,~25 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
@@ -13953,7 +13953,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1183682,Latinha Na Mão,Adegas,G1,G1.1,117,Base ampla — potencial,,R$ 561,~5 cx/mês,Coca 2L|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Seg,Média
 1183690,Legítimo Café,Lanchonete,AN,AN.2,A26,Fortaleza de cobertura,67,R$ 4.765,~26 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qua,Alta
 1183696,Pastelaria Imperio,Lanchonete,PA,PA.3,P34,Fortaleza de cobertura,87,R$ 2.494,~18 cx/mês,Zero|Coca 2L|Kapo,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qua,Alta
-1183699,Aurora Supermercado,As 1-4,GU,GU.2,G21,Grande conta,83,R$ 46.074,~494 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Não,Não,1ª compra pendente,,,0,0,NAO,Sex,
+1183699,Aurora Supermercado,As 1-4,GU,GU.2,G21,Grande conta,83,R$ 46.074,~494 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
 1183703,Panificadora Esmeralda,Padarias,AN,AN.1,A13,Base ampla — potencial,45,R$ 4.404,~38 cx/mês,Zero|Coca 2L|Kapo|Powerade,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1183704,Bar Corujao,Boteco,IT,IT.2,I21,Fortaleza de cobertura,75,R$ 1.163,~9 cx/mês,Zero|Coca 2L|Kapo,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1183725,Dist Agua Santa Luzia,Adegas,IT,IT.2,I21,Base ampla — potencial,,R$ 1.377,~9 cx/mês,Coca 2L|Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
@@ -13984,7 +13984,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1183856,Boutique Das Carnes,Mercearia,SL,SL.2,S25,Médio — a desenvolver,0,R$ 7.981,~49 cx/mês,Zero|Coca 2L,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1183864,Marcos Paulo Bebida Gelada,Adegas,IT,IT.2,I24,Fortaleza de cobertura,,R$ 2.091,~14 cx/mês,Coca 2L|Monster|Cerveja|Cerveja 600|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1183869,Safari Bar E Petiscos,Outros Canais,G2,G2.2,221,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qui,
-1183871,Bebida Na Garagem,Adegas,RV,RV.2,R21,Base ampla — potencial,,R$ 3.696,~39 cx/mês,Zero|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1183871,Bebida Na Garagem,Adegas,RV,RV.2,R21,Base ampla — potencial,,R$ 3.696,~39 cx/mês,Zero|Cerveja,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1183873,Auto Socorro Gas E Agua,Adegas,MO,MO.1,M13,Médio — desenvolvido,,R$ 7.563,~40 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1183883,2r Supermercado,As 1-4,GU,GU.1,G17,Médio — desenvolvido,70,R$ 14.915,~114 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1183884,Lanchonete Do Robinho,Lanchonete,AN,AN.3,A34,Médio — desenvolvido,100,R$ 14.466,~114 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
@@ -14009,7 +14009,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1184026,Bar Bregolano,Boteco,GU,GU.2,G25,Fortaleza de cobertura,75,R$ 5.078,~43 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1184028,Padaraia Dallu,Padarias,AP,AP.2,525,Médio — desenvolvido,71,R$ 11.158,~97 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1184038,Comercial Barros Casa Das Bebidas,As 1-4,PA,PA.3,P33,Base ampla — potencial,4,R$ 1.234,~13 cx/mês,Coca 2L|Powerade|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
-1184039,Merc Liderança,As 1-4,IT,IT.2,I25,Grande,85,R$ 22.566,~204 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
+1184039,Merc Liderança,As 1-4,IT,IT.2,I25,Grande,85,R$ 22.566,~204 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1184042,Unimaq Atacarejo,As 1-4,GU,GU.1,G17,Grande,81,R$ 26.065,~270 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
 1184043,Supermercado Mundial,As 1-4,UR,UR.2,U23,Grande,100,R$ 23.836,~188 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1184048,Estacao Do Pastel,Outros Canais,G2,G2.1,213,Base ampla — potencial,,R$ 1.137,~7 cx/mês,Zero|Coca 2L,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
@@ -14217,7 +14217,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1185211,Floriza Flores Cestas E Presentes,Outros Canais,G3,G3.2,321,Base ampla — cesta mínima,,R$ 494,~7 cx/mês,,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1185223,Mercearia E Meni Mercado Id,Mercearia,RV,RV.2,R25,Médio — desenvolvido,38,R$ 11.607,~107 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,Média
 1185232,Sup. Lar Feliz Vl. Brasilia,As 1-4,AP,AP.1,511,Grande,86,R$ 24.068,~195 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn,Não,Não,1ª compra pendente,,,0,0,NAO,Qua,
-1185240,Meraki Distribuidora,Adegas,DI,DI.1,D15,Fortaleza de cobertura,,R$ 1.341,~9 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1185240,Meraki Distribuidora,Adegas,DI,DI.1,D15,Fortaleza de cobertura,,R$ 1.341,~9 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1185241,Emporio & Mercearia Gm,Adegas,G2,G2.1,217,Médio — desenvolvido,,R$ 6.119,~48 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1185247,Bar Cavalcante,Boteco,G1,G1.1,115,Base ampla — potencial,25,R$ 4.941,~46 cx/mês,Coca 2L|Monster|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1185248,Americanas Flamboyant,Outros Canais,G3,G3.3,331,Grande conta,,R$ 64.285,~442 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Não,Não,1ª compra pendente,,,0,0,NAO,Seg - Qui,
@@ -14992,7 +14992,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1189271,Bar Matias,Boteco,MO,MO.1,M12,Fortaleza de cobertura,83,R$ 1.943,~13 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Cerveja 600|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1189274,Super Preço Bom,As 1-4,MO,MO.1,M11,Médio — desenvolvido,37,R$ 14.517,~139 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1189279,Merc Paineira,Mercearia,MO,MO.1,M14,Base ampla — potencial,4,R$ 1.696,~10 cx/mês,Coca 2L|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
-1189285,Max Lanche Capital,Lanchonete,G3,G3.1,316,Fortaleza de cobertura,67,R$ 5.828,~37 cx/mês,Zero|Coca 2L|Monster,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qua - Sex,Alta
+1189285,Max Lanche Capital,Lanchonete,G3,G3.1,316,Fortaleza de cobertura,67,R$ 5.828,~37 cx/mês,Zero|Coca 2L|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Qua - Sex,Alta
 1189287,Resenhas Bar,Boteco,RI,RI.1,C11,Base ampla — potencial,42,R$ 3.842,~12 cx/mês,Zero|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Seg,Média
 1189292,Sun Burguer,Lanchonete,PA,PA.1,P12,Fortaleza de cobertura,80,R$ 3.996,~29 cx/mês,Zero|Coca 2L|Kapo|Powerade,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
 1189294,Fast Food Burguer E Jantinha,Outros Canais,GU,GU.1,G14,Base ampla — cesta mínima,,R$ 1.490,~12 cx/mês,Zero,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
@@ -15223,7 +15223,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1190584,Fogao Mercado,As 1-4,MO,MO.2,M22,Grande,85,R$ 34.721,~361 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Qua,
 1190585,Espetinho Do Fragelo,Outros Canais,AN,AN.3,A37,Base ampla — potencial,,R$ 741,~4 cx/mês,Zero|Coca 2L|Kapo|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1190588,Adega Beer Distribuidora,Adegas,G1,G1.1,115,Fortaleza de cobertura,,R$ 3.400,~25 cx/mês,Zero|Coca 2L|Monster|Cerveja|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
-1190593,Fernando Bike,Outros Canais,PO,PO.1,O12,Fortaleza de cobertura,,R$ 1.349,~7 cx/mês,Coca 2L|Powerade|Monster|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1190593,Fernando Bike,Outros Canais,PO,PO.1,O12,Fortaleza de cobertura,,R$ 1.349,~7 cx/mês,Coca 2L|Powerade|Monster|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1190600,Gameleira Beer,Adegas,RV,RV.1,R14,Médio — desenvolvido,,R$ 13.071,~107 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1190601,Jantinha Da Baiana,Outros Canais,MO,MO.1,M12,Médio — desenvolvido,,R$ 7.179,~28 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1190602,Restaurante E Churrascaria Pureza,Restaurante,GU,GU.2,G21,Fortaleza de cobertura,87,R$ 2.868,~24 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
@@ -15235,7 +15235,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1190624,Delicias Da Casa,Lanchonete,RV,RV.1,R12,Base ampla — potencial,53,R$ 1.414,~20 cx/mês,Zero|Coca 2L|Kapo|Powerade,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,Média
 1190626,Resenha De Boteco Bar E Petiscaria,Adegas,G2,G2.2,222,Fortaleza de cobertura,,R$ 600,~4 cx/mês,Coca 2L|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
 1190627,Dada Lanches,Outros Canais,AP,AP.3,535,Base ampla — cesta mínima,,R$ 364,~2 cx/mês,Coca 2L,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
-1190628,Bar Do Cleone,Boteco,PA,PA.2,P25,Fortaleza de cobertura,83,R$ 4.146,~39 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1190628,Bar Do Cleone,Boteco,PA,PA.2,P25,Fortaleza de cobertura,83,R$ 4.146,~39 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1190629,Colegio Mais Anima,Outros Canais,G2,G2.2,224,Base ampla — potencial,,R$ 4.781,~46 cx/mês,Zero|Kapo|Powerade,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,Média
 1190640,Padaria E Lanchonete Lanche Da Hora,Padarias,G2,G2.1,215,Base ampla — potencial,19,R$ 1.166,~13 cx/mês,Coca 2L|Kapo|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,Média
 1190649,Churrascaria Flor De Pequi Prime,Restaurante,PA,PA.2,P26,Base ampla — cesta mínima,47,R$ 5.861,~34 cx/mês,Zero|Powerade,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
@@ -15405,7 +15405,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1191414,Jatoba Futebol Society,Outros Canais,RI,RI.2,C21,Fortaleza de cobertura,,R$ 4.403,~22 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1191417,Casa De Carne Victoria,Mercearia,DI,DI.1,D13,Fortaleza de cobertura,38,R$ 2.065,~18 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
 1191422,Restaurante Sabor Do Brasil,Restaurante,RV,RV.1,R14,Fortaleza de cobertura,87,R$ 4.931,~31 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Seg,Alta
-1191423,Distribuidora E Mercearia,Adegas,AP,AP.2,525,Base ampla — potencial,,R$ 1.459,~11 cx/mês,Coca 2L|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1191423,Distribuidora E Mercearia,Adegas,AP,AP.2,525,Base ampla — potencial,,R$ 1.459,~11 cx/mês,Coca 2L|Powerade|Monster|Cerveja,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1191425,Cantinho Do Acai,Outros Canais,GU,GU.1,G12,Base ampla — potencial,,R$ 820,~11 cx/mês,Coca 2L|Kapo|Powerade|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1191433,Bar E Petiscaria,Boteco,GU,GU.2,G24,Fortaleza de cobertura,92,R$ 1.623,~13 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
 1191436,Restaurante Sabor De Goiás,Restaurante,UR,UR.2,U25,Médio — desenvolvido,87,R$ 7.024,~51 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Seg,Média
@@ -15856,7 +15856,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1193853,Restaurante Panela De Barro,Restaurante,PA,PA.3,P34,Médio — desenvolvido,100,R$ 8.700,~70 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1193857,Distribuidora Silva,Adegas,PA,PA.3,P32,Fortaleza de cobertura,,R$ 3.888,~25 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
 1193860,Pamonharia Sabor Goiano,Outros Canais,UR,UR.1,U12,Fortaleza de cobertura,,R$ 5.165,~43 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
-1193863,Imperio Frios,As 1-4,UR,UR.1,U12,Médio — desenvolvido,81,R$ 11.658,~111 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1193863,Imperio Frios,As 1-4,UR,UR.1,U12,Médio — desenvolvido,81,R$ 11.658,~111 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1193866,Supermercado Ponto Certo,As 1-4,RI,RI.1,C16,Fortaleza de cobertura,22,R$ 2.173,~18 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
 1193871,Moretti Emporio,Mercearia,G3,G3.1,316,Fortaleza de cobertura,25,R$ 2.137,~16 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Seg - Qua,Alta
 1193879,2 Irmaos Bebidas Geladas,Adegas,RV,RV.2,R22,Médio — desenvolvido,,R$ 9.099,~84 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
@@ -16950,7 +16950,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1198710,Lanchonete Araguaia,Lanchonete,RI,RI.2,C27,Fortaleza de cobertura,27,R$ 811,~7 cx/mês,Zero|Coca 2L|Monster|Cerveja|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qui,Alta
 1198711,Pastelaria Da Andrea,Lanchonete,G2,G2.1,215,Fortaleza de cobertura,80,R$ 1.164,~7 cx/mês,Zero|Cerveja|Eisenbahn,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Seg,Alta
 1198718,Drogaria Santana,Outros Canais,G2,G2.1,214,Base ampla — potencial,,R$ 1.696,~14 cx/mês,Zero|Powerade|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
-1198721,Jumbo Atacarejo,As 1-4,DI,DI.1,D14,Grande conta,48,R$ 88.327,~595 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Sex,
+1198721,Jumbo Atacarejo,As 1-4,DI,DI.1,D14,Grande conta,48,R$ 88.327,~595 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,
 1198723,O Escritório,Outros Canais,GU,GU.1,G14,Base ampla — potencial,,R$ 954,~6 cx/mês,Coca 2L,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1198724,Mercearia Leandro,As 1-4,IT,IT.2,I22,Fortaleza de cobertura,30,R$ 5.094,~45 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1198725,Bar Do Nilson,Boteco,IT,IT.2,I22,Base ampla — potencial,25,R$ 1.069,~7 cx/mês,Coca 2L|Cerveja|Cerveja 600|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
@@ -17888,7 +17888,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1202402,Mercearia Da Claudia,As 1-4,PA,PA.2,P22,Fortaleza de cobertura,41,R$ 4.070,~34 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1202406,Js Bebidas E Mercearia,As 1-4,RV,RV.2,R24,Grande conta,100,R$ 73.320,~526 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1202407,Distribuidora Bebidas Absolute,Adegas,G3,G3.1,312,Fortaleza de cobertura,,R$ 681,~7 cx/mês,Zero|Coca 2L|Monster|Cerveja|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qua - Sex,Alta
-1202417,Mine Mercado Vitor,Mercearia,SL,SL.1,S16,Fortaleza de cobertura,17,R$ 3.154,~21 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1202417,Mine Mercado Vitor,Mercearia,SL,SL.1,S16,Fortaleza de cobertura,17,R$ 3.154,~21 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1202418,Pamonharia Da Roca,Lanchonete,AN,AN.3,A36,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qui,
 1202420,Kls Comercio,As 1-4,PO,PO.1,O16,Base ampla — potencial,26,R$ 2.602,~16 cx/mês,Zero|Coca 2L|Monster|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1202424,Sid'S Bar,Boteco,MO,MO.1,M12,Fortaleza de cobertura,92,R$ 2.003,~9 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
@@ -18461,7 +18461,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1204669,Bliitz Beer,Adegas,RV,RV.1,R15,Médio — desenvolvido,,R$ 13.709,~43 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1204673,Mercearia Batista,As 1-4,G2,G2.2,226,Médio — desenvolvido,63,R$ 12.036,~95 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1204674,Espetinho Ld,Outros Canais,PO,PO.1,O17,Fortaleza de cobertura,,R$ 1.622,~6 cx/mês,Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
-1204677,Espetinhos Dos Medeiros,Outros Canais,G1,G1.1,111,Base ampla — potencial,,R$ 2.518,~16 cx/mês,Zero|Powerade|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
+1204677,Espetinhos Dos Medeiros,Outros Canais,G1,G1.1,111,Base ampla — potencial,,R$ 2.518,~16 cx/mês,Zero|Powerade|Cerveja|Cerveja 600,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1204678,Alameda Supermercado,As 1-4,AN,AN.2,A22,Médio — desenvolvido,52,R$ 10.817,~100 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1204681,Pani Frios Atacarejo,Mercearia,AP,AP.2,524,Médio — desenvolvido,46,R$ 8.227,~58 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1204683,Rm Distribuidora,Outros Canais,PA,PA.1,P13,Base ampla — potencial,,R$ 4.739,~34 cx/mês,Zero|Coca 2L|Powerade|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
@@ -18610,7 +18610,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1205272,Treinar Te,Outros Canais,GU,GU.1,G14,Fortaleza de cobertura,,R$ 1.584,~16 cx/mês,Zero|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1205278,Supermercado Do Gordinho,As 1-4,AP,AP.1,511,Grande conta,36,R$ 771.136,~7606 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,,,0,0,NAO,Seg,
 1205281,Pit Stop Primavera,As 1-4,MO,MO.1,M13,Médio — desenvolvido,48,R$ 13.549,~105 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim (recadastrar),Sim,Recompra já comprou este mês,—,"Cadastro precisa ser refeito, não consta mais na base",1,0,NAO,Ter,
-1205282,Prato Cheio Jantinha,Outros Canais,SL,SL.2,S22,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
+1205282,Prato Cheio Jantinha,Outros Canais,SL,SL.2,S22,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1205283,Bebida Gelada Da Marlene,Adegas,RV,RV.1,R12,Base ampla — potencial,,R$ 549,~2 cx/mês,Kapo|Cerveja|Cerveja 600,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1205285,Studio Fitness,Outros Canais,G2,G2.1,217,Base ampla — potencial,,R$ 395,~4 cx/mês,Zero|Powerade|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1205291,Belas Raças,Outros Canais,IT,IT.1,I16,Base ampla — potencial,,R$ 1.998,~16 cx/mês,Kapo|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
@@ -18761,7 +18761,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1205741,Vital Academia,Outros Canais,G2,G2.2,225,Base ampla — potencial,,R$ 938,~9 cx/mês,Powerade|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Seg,Média
 1205742,Mercearia Oeste,As 1-4,AN,AN.3,A37,Fortaleza de cobertura,19,R$ 4.066,~28 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1205743,Malbec Burger E Lazer,Lanchonete,AP,AP.3,532,Médio — desenvolvido,73,R$ 10.724,~78 cx/mês,Zero|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
-1205744,Drogaria Nossa Rede,Outros Canais,AP,AP.3,534,Base ampla — potencial,,R$ 686,~6 cx/mês,Coca 2L|Powerade|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1205744,Drogaria Nossa Rede,Outros Canais,AP,AP.3,534,Base ampla — potencial,,R$ 686,~6 cx/mês,Coca 2L|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1205745,Panif São Carlos,Padarias,AN,AN.2,A27,Fortaleza de cobertura,50,R$ 5.702,~40 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
 1205747,Drogaria Sao Judas,Outros Canais,G2,G2.2,226,Base ampla — potencial,,R$ 1.305,~13 cx/mês,Zero|Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
 1205756,Mercearia Alvorada,As 1-4,RI,RI.1,C12,Médio — desenvolvido,37,R$ 7.304,~51 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
@@ -18783,7 +18783,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1205811,Restaurante Quero Mais,Restaurante,G3,G3.2,322,Fortaleza de cobertura,67,R$ 3.236,~23 cx/mês,Zero|Coca 2L|Kapo|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1205812,Divina Marmita Mix Acai E Milk Shak,Lanchonete,PA,PA.2,P24,Médio — desenvolvido,100,R$ 15.532,~118 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1205816,Buteco Do Marquin,Boteco,RV,RV.2,R24,Médio — desenvolvido,83,R$ 18.089,~65 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Seg,Média
-1205817,Sabores Da Ju,Restaurante,RV,RV.2,R23,Base ampla — cesta mínima,40,R$ 1.350,~14 cx/mês,Zero,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1205817,Sabores Da Ju,Restaurante,RV,RV.2,R23,Base ampla — cesta mínima,40,R$ 1.350,~14 cx/mês,Zero,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1205826,Ponto Da Resenha,Restaurante,G3,G3.2,325,Fortaleza de cobertura,87,R$ 4.016,~25 cx/mês,Zero|Coca 2L|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Seg,Alta
 1205827,Raiado 59 Burguer,Restaurante,RI,RI.2,C22,Médio — desenvolvido,100,R$ 20.658,~192 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1205833,Orla Gastrobar,Lanchonete,RI,RI.1,C16,Médio — desenvolvido,100,R$ 18.077,~91 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
@@ -19090,7 +19090,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1206843,Drogarias Nossa Rede,Outros Canais,AP,AP.2,528,Base ampla — potencial,,R$ 711,~8 cx/mês,Zero|Powerade|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qui,Média
 1206845,Drogaria Carvalho,Outros Canais,AP,AP.2,523,Base ampla — potencial,,R$ 2.831,~33 cx/mês,Zero|Coca 2L|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1206846,Droga Mar,Outros Canais,G1,G1.2,126,Base ampla — potencial,,R$ 772,~8 cx/mês,Zero|Kapo|Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
-1206849,Portal Pharma,Outros Canais,G2,G2.2,225,Base ampla — potencial,,R$ 1.507,~14 cx/mês,Zero|Coca 2L|Powerade|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1206849,Portal Pharma,Outros Canais,G2,G2.2,225,Base ampla — potencial,,R$ 1.507,~14 cx/mês,Zero|Coca 2L|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1206864,Sorvarth Premium,Outros Canais,AN,AN.2,A25,Base ampla — cesta mínima,,R$ 1.438,~15 cx/mês,Zero,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1206870,Nova Alianca Supermercado,As 1-4,RV,RV.2,R22,Grande conta,78,R$ 46.501,~436 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1206873,Jp Coveniência,Mercearia,RV,RV.2,R22,Médio — desenvolvido,46,R$ 14.782,~116 cx/mês,Coca 2L|Kapo|Monster|Cerveja|Sabores|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,Média
@@ -19762,7 +19762,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1208962,Sabor Campestre,Restaurante,G1,G1.1,113,Médio — desenvolvido,87,R$ 9.421,~66 cx/mês,Zero|Coca 2L|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter,Média
 1208966,Supermercado Verdurao Economia,As 1-4,RI,RI.1,C15,Fortaleza de cobertura,69,R$ 4.743,~42 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
 1208967,Cytrus Restaurante,Restaurante,G3,G3.1,314,Médio — desenvolvido,100,R$ 7.021,~46 cx/mês,Zero|Coca 2L|Kapo|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter - Qui,Média
-1208979,Mec Lanches Central,Lanchonete,UR,UR.1,U11,Fortaleza de cobertura,67,R$ 1.932,~15 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1208979,Mec Lanches Central,Lanchonete,UR,UR.1,U11,Fortaleza de cobertura,67,R$ 1.932,~15 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1208982,Merc E Sorveteria Point,Outros Canais,PO,PO.1,O15,Fortaleza de cobertura,,R$ 1.948,~16 cx/mês,Zero|Coca 2L|Kapo|Monster|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1208988,Supermercado J Rodrigues,As 1-4,G1,G1.2,124,Fortaleza de cobertura,33,R$ 3.436,~30 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qui,Alta
 1208989,Carolita,Mercearia,RV,RV.1,R16,Base ampla — cesta mínima,0,R$ 1.538,~10 cx/mês,Zero|Monster,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,Média
@@ -20624,7 +20624,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1211711,Panificad Santa Ceia,Padarias,AN,AN.3,A31,Médio — desenvolvido,98,R$ 16.416,~143 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,Média
 1211713,Estela Doces E Salgados,Lanchonete,PA,PA.1,P15,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Seg,
 1211714,Alcateia Barbearia,Outros Canais,RI,RI.2,C21,Fortaleza de cobertura,,R$ 1.360,~11 cx/mês,Zero|Kapo|Powerade|Monster|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
-1211716,Monte Do Carmo Panificadora,Outros Canais,PA,PA.2,P23,Médio — desenvolvido,,R$ 6.524,~55 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1211716,Monte Do Carmo Panificadora,Outros Canais,PA,PA.2,P23,Médio — desenvolvido,,R$ 6.524,~55 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1211720,Boteco Boa Praça,Boteco,RI,RI.2,C21,Base ampla — potencial,33,R$ 3.695,~21 cx/mês,Coca 2L|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1211723,Mini Mercado Ideal,As 1-4,IT,IT.2,I25,Fortaleza de cobertura,19,R$ 4.264,~33 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
 1211726,Lu Beer,Adegas,IT,IT.1,I16,Base ampla — potencial,,R$ 1.337,~9 cx/mês,Coca 2L|Kapo|Monster|Cerveja,Sim (recadastrar),Sim,1ª compra feita este mês,—,"Cadastro precisa ser refeito, não consta mais na base",1,0,NAO,Qua,
@@ -20782,7 +20782,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1212206,Lacerda Confeitaria,Padarias,RV,RV.1,R12,Médio — desenvolvido,64,R$ 11.154,~79 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1212209,Super Federal Atacarejo,As 1-4,G1,G1.1,113,Grande conta,75,R$ 827.626,~8109 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg - Qui,
 1212212,Padaria Do Ponto,Padarias,AN,AN.3,A31,Médio — desenvolvido,62,R$ 8.555,~67 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
-1212213,Ratimbol,Outros Canais,PO,PO.1,O16,Base ampla — potencial,,R$ 3.139,~29 cx/mês,Zero|Kapo|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1212213,Ratimbol,Outros Canais,PO,PO.1,O16,Base ampla — potencial,,R$ 3.139,~29 cx/mês,Zero|Kapo|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1212215,Bar 2 Gotas Do Miguelzinho,Boteco,SL,SL.1,S14,Fortaleza de cobertura,83,R$ 2.513,~15 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,Alta
 1212217,Yoz Tabacaria,Outros Canais,DI,DI.1,D15,Fortaleza de cobertura,,R$ 364,~4 cx/mês,Zero|Coca 2L|Cerveja|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qua,Alta
 1212222,Emporio Distribuidora,Adegas,GU,GU.1,G12,Fortaleza de cobertura,,R$ 3.895,~29 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
@@ -20962,10 +20962,10 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1212747,Bar Da Jovelina,Boteco,DI,DI.1,D12,Base ampla — cesta mínima,8,R$ 456,~2 cx/mês,Coca 2L,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,Média
 1212748,Agua De Ouro,Adegas,DI,DI.1,D12,Base ampla — potencial,,R$ 159,~1 cx/mês,Coca 2L|Kapo|Cerveja|Eisenbahn,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1212752,Pastelaria E Lanchonete Do Fiinho,Lanchonete,G2,G2.1,211,Fortaleza de cobertura,80,R$ 2.354,~16 cx/mês,Zero|Coca 2L|Kapo|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Ter,Alta
-1212753,Super Parceirão,As 1-4,PA,PA.2,P25,Médio — desenvolvido,93,R$ 14.790,~102 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1212753,Super Parceirão,As 1-4,PA,PA.2,P25,Médio — desenvolvido,93,R$ 14.790,~102 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1212755,Conveniencia Msg,Lj. Conveniências,MO,MO.2,M26,Médio — desenvolvido,,R$ 11.135,~89 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
 1212757,Distribuidora De Bebidas Premium,Adegas,PA,PA.2,P24,Grande,,R$ 23.020,~170 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
-1212763,Galo Academia,Outros Canais,GU,GU.2,G22,Base ampla — cesta mínima,,R$ 539,~5 cx/mês,Powerade|Monster,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1212763,Galo Academia,Outros Canais,GU,GU.2,G22,Base ampla — cesta mínima,,R$ 539,~5 cx/mês,Powerade|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1212766,Aquarius Sanduicheria,Outros Canais,AP,AP.3,534,Médio — a desenvolver,,R$ 6.727,~48 cx/mês,Zero|Coca 2L|Cerveja|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1212767,Mercearia Fernandes,As 1-4,G1,G1.1,114,Médio — desenvolvido,30,R$ 6.640,~58 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1212769,Emporio Assados,Adegas,RI,RI.2,C27,Médio — desenvolvido,,R$ 13.481,~58 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
@@ -22109,7 +22109,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1215871,Emporio Oliveira,Adegas,AP,AP.2,522,Fortaleza de cobertura,,R$ 1.946,~18 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
 1215872,Sp Variedades Marilia,As 1-4,DI,DI.1,D14,Médio — desenvolvido,59,R$ 7.331,~48 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
 1215873,Empório Reis,Lj. Conveniências,G2,G2.2,225,Base ampla — potencial,,R$ 1.002,~11 cx/mês,Zero|Coca 2L|Cerveja|Eisenbahn,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,Média
-1215874,Jl Supermercado,As 1-4,G1,G1.1,111,Médio — desenvolvido,67,R$ 17.085,~149 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
+1215874,Jl Supermercado,As 1-4,G1,G1.1,111,Médio — desenvolvido,67,R$ 17.085,~149 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1215875,Pastelaria Rodrigues,Lanchonete,UR,UR.2,U21,Fortaleza de cobertura,60,R$ 2.401,~21 cx/mês,Zero|Coca 2L|Kapo|Monster,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qua,Alta
 1215876,Pontao Do Lago,Restaurante,MO,MO.2,M26,Fortaleza de cobertura,33,R$ 583,~5 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
 1215877,Box Zero 2,Outros Canais,MO,MO.1,M12,Base ampla — potencial,,R$ 3.293,~30 cx/mês,Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
@@ -22145,7 +22145,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1215956,O Mundo Das Utilidades Quirinopolis,Outros Canais,IT,IT.2,I24,Base ampla — potencial,,R$ 1.582,~17 cx/mês,Zero|Kapo|Monster,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1215962,Restaurante Serv Kent,Restaurante,G2,G2.2,227,Fortaleza de cobertura,80,R$ 3.787,~25 cx/mês,Zero|Coca 2L|Kapo|Monster,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1215968,Diego Moto Pecas E Oficina,Outros Canais,GU,GU.2,G23,Fortaleza de cobertura,,R$ 1.397,~12 cx/mês,Kapo|Powerade|Monster|Cerveja|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
-1215969,Rota Xtreme,Mercearia,GU,GU.2,G24,Fortaleza de cobertura,4,R$ 621,~5 cx/mês,Coca 2L|Kapo|Cerveja|Cerveja 600|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1215969,Rota Xtreme,Mercearia,GU,GU.2,G24,Fortaleza de cobertura,4,R$ 621,~5 cx/mês,Coca 2L|Kapo|Cerveja|Cerveja 600|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1215970,Premium Distribuidora De Bebidas,Mercearia,GU,GU.2,G24,Fortaleza de cobertura,8,R$ 932,~7 cx/mês,Zero|Coca 2L|Kapo|Monster|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1215971,Mercado Nordeste,As 1-4,PA,PA.1,P15,Grande conta,78,R$ 63.026,~447 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1215974,Cantinho Da Jak,Lanchonete,SL,SL.1,S14,Fortaleza de cobertura,100,R$ 1.670,~17 cx/mês,Zero|Coca 2L|Kapo,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
@@ -22159,7 +22159,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1215995,Dani Salgados E Sorvetes Delivery,Outros Canais,IT,IT.2,I25,Base ampla — potencial,,R$ 2.335,~17 cx/mês,Zero|Coca 2L|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1215998,Drink Mercearia,As 1-4,RI,RI.2,C27,Grande,52,R$ 40.727,~402 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1216001,Mercearia Pai E Filho,As 1-4,RI,RI.1,C16,Fortaleza de cobertura,67,R$ 5.165,~41 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
-1216002,Emporio Prime,Adegas,IT,IT.2,I22,Grande,,R$ 24.017,~192 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
+1216002,Emporio Prime,Adegas,IT,IT.2,I22,Grande,,R$ 24.017,~192 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1216006,Venus Pizzaria,Lanchonete,GU,GU.2,G25,Base ampla — potencial,47,R$ 1.137,~8 cx/mês,Zero|Coca 2L|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
 1216007,Nova Era Bebidas,Adegas,AP,AP.2,525,Base ampla — potencial,,R$ 797,~8 cx/mês,Zero|Coca 2L|Kapo|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1216008,Supermercado Avenida,As 1-4,AP,AP.2,528,Grande,37,R$ 22.785,~217 cx/mês,Zero|Coca 2L|Monster|Cerveja|Sabores,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Ter,
@@ -22170,7 +22170,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1216021,Padoca,Padarias,IT,IT.2,I22,Médio — desenvolvido,67,R$ 8.449,~70 cx/mês,Zero|Coca 2L|Kapo,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
 1216023,Drogaria Goianesia,Outros Canais,RI,RI.2,C22,Base ampla — potencial,,R$ 1.035,~10 cx/mês,Zero|Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,Média
 1216024,Dona Bela Panificadora,Padarias,G1,G1.2,124,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qua,
-1216025,Ki Lanche Bom,Lanchonete,G3,G3.2,325,Base ampla — cesta mínima,53,R$ 1.874,~10 cx/mês,Zero,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1216025,Ki Lanche Bom,Lanchonete,G3,G3.2,325,Base ampla — cesta mínima,53,R$ 1.874,~10 cx/mês,Zero,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1216028,Toca Do Coelho,Adegas,RV,RV.2,R22,Base ampla — potencial,,R$ 748,~6 cx/mês,Zero|Coca 2L|Monster|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1216029,Beb Geladas Parana,Adegas,RV,RV.1,R15,Médio — desenvolvido,,R$ 10.615,~83 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1216031,Super Sao Jose,As 1-4,SL,SL.2,S22,Base ampla — cesta mínima,0,R$ 258,~1 cx/mês,Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
@@ -22594,7 +22594,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1217094,Emporio Boa Vista Cafe,Lanchonete,G1,G1.2,123,Base ampla — potencial,33,R$ 464,~5 cx/mês,Zero|Coca 2L|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg,Média
 1217100,Chef Sandra Restaurante,Outros Canais,G3,G3.2,325,Base ampla — potencial,,R$ 460,~7 cx/mês,Coca 2L|Kapo|Monster,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1217101,Distribuidora Parada Obrigatoria,Adegas,AN,AN.3,A31,Base ampla — potencial,,R$ 1.439,~12 cx/mês,Coca 2L|Monster|Cerveja|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
-1217102,Panificadora Confeitaria Rochedo,Padarias,AN,AN.2,A27,Fortaleza de cobertura,52,R$ 3.123,~29 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1217102,Panificadora Confeitaria Rochedo,Padarias,AN,AN.2,A27,Fortaleza de cobertura,52,R$ 3.123,~29 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1217104,Empório Noroeste,Adegas,G2,G2.1,216,Base ampla — potencial,,R$ 391,~4 cx/mês,Coca 2L|Cerveja|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1217105,Reges Whisky & Tabacaria Delivery,Adegas,PA,PA.1,P15,Fortaleza de cobertura,,R$ 3.317,~24 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1217106,Empório Silvestre,As 1-4,G1,G1.1,116,Médio — desenvolvido,22,R$ 8.552,~80 cx/mês,Zero|Coca 2L|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
@@ -22677,12 +22677,12 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1217260,Ki Delicia Pasteis,Lanchonete,AP,AP.2,526,Base ampla — cesta mínima,0,R$ 1.584,~9 cx/mês,Zero|Sabores,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1217265,Rl Motos,Outros Canais,UR,UR.1,U13,Fortaleza de cobertura,,R$ 1.518,~12 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1217270,Echope Rio Verde,Adegas,RV,RV.3,R32,Grande conta,,R$ 2.042.249,~23537 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn,Não,Não,1ª compra pendente,,,0,0,NAO,Seg - Ter - Qua - Qui - Sex,
-1217271,Impêrio Dos Salgados,Lanchonete,DI,DI.1,D15,Base ampla — potencial,20,R$ 943,~9 cx/mês,Coca 2L|Powerade|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1217271,Impêrio Dos Salgados,Lanchonete,DI,DI.1,D15,Base ampla — potencial,20,R$ 943,~9 cx/mês,Coca 2L|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1217272,Mercadinho Da Terra,As 1-4,GU,GU.2,G21,Grande conta,67,R$ 82.142,~588 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
 1217274,Espetinho Amorim,Outros Canais,GU,GU.2,G25,Fortaleza de cobertura,,R$ 3.906,~28 cx/mês,Zero|Coca 2L|Powerade|Cerveja|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1217279,Urbano Market,Outros Canais,G3,G3.1,316,Base ampla — potencial,,R$ 619,~6 cx/mês,Zero|Powerade|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter - Qui,Média
 1217280,Supermercado Venancio,As 1-4,AN,AN.2,A25,Base ampla — cesta mínima,11,R$ 1.198,~9 cx/mês,Zero|Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
-1217282,Tardezinha,Adegas,G1,G1.2,124,Fortaleza de cobertura,,R$ 1.602,~16 cx/mês,Coca 2L|Powerade|Monster|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1217282,Tardezinha,Adegas,G1,G1.2,124,Fortaleza de cobertura,,R$ 1.602,~16 cx/mês,Coca 2L|Powerade|Monster|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1217285,Fast Pizza,Restaurante,UR,UR.1,U12,Fortaleza de cobertura,40,R$ 4.536,~21 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1217286,Casa De Carnes Do Vale,Mercearia,G2,G2.1,214,Base ampla — potencial,0,R$ 1.462,~17 cx/mês,Zero|Powerade|Monster|Cerveja,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1217287,Echope Genoveva,Adegas,G3,G3.2,321,Grande,,R$ 33.004,~285 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
@@ -22783,14 +22783,14 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1217494,Malibu E Eventos,Boteco,G1,G1.1,116,Base ampla — potencial,25,R$ 512,~3 cx/mês,Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1217495,Edu Barbearia,Outros Canais,PO,PO.1,O13,Base ampla — potencial,,R$ 482,~4 cx/mês,Powerade|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1217501,Fuzikimi Sushi,Restaurante,IT,IT.1,I12,Fortaleza de cobertura,100,R$ 2.981,~25 cx/mês,Zero|Coca 2L|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
-1217510,Gota D Agua Dist De Bebidas,Adegas,SL,SL.2,S22,Fortaleza de cobertura,,R$ 5.939,~35 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1217510,Gota D Agua Dist De Bebidas,Adegas,SL,SL.2,S22,Fortaleza de cobertura,,R$ 5.939,~35 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1217511,Lanchonete Oswaldo Cruz,Lanchonete,PA,PA.2,P27,Fortaleza de cobertura,67,R$ 1.783,~11 cx/mês,Zero|Coca 2L|Kapo|Monster,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Ter,Alta
 1217515,Supreme Super Distribuidora,Mercearia,PA,PA.1,P13,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Qui,
 1217516,Pousada Divino Toca,Outros Canais,PA,PA.1,P12,Fortaleza de cobertura,,R$ 4.118,~38 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
 1217517,Resedendes Beer,Adegas,G2,G2.1,213,Fortaleza de cobertura,,R$ 1.445,~14 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
 1217520,Distribuidora Mk,Boteco,PO,PO.1,O11,Fortaleza de cobertura,33,R$ 2.648,~15 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1217521,Comercial Sousa,As 1-4,PO,PO.1,O11,Médio — desenvolvido,63,R$ 7.196,~55 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
-1217535,Forte Bebidas,Adegas,RV,RV.1,R13,Grande conta,,R$ 72.891,~573 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
+1217535,Forte Bebidas,Adegas,RV,RV.1,R13,Grande conta,,R$ 72.891,~573 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1217540,Dist E Tabacaria Cardoso,Adegas,G2,G2.1,213,Médio — desenvolvido,,R$ 6.537,~64 cx/mês,Zero|Coca 2L|Monster|Cerveja|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
 1217545,Carneiros Mercado E Dist De Beb,As 1-4,SL,SL.1,S13,Fortaleza de cobertura,11,R$ 3.784,~33 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1217552,Merc Chega Mais,Mercearia,IT,IT.2,I25,Médio — a desenvolver,46,R$ 9.450,~79 cx/mês,Zero|Kapo|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
@@ -22838,7 +22838,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1217681,Sup. E Panif. Eldorado,As 1-4,MO,MO.2,M23,Grande conta,94,R$ 58.103,~524 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
 1217682,Emporio Uruguai,Boteco,AP,AP.3,536,Fortaleza de cobertura,83,R$ 2.198,~15 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Seg,Alta
 1217685,Lanchonete Carvalho 2,Lanchonete,DI,DI.1,D11,Fortaleza de cobertura,80,R$ 954,~8 cx/mês,Zero|Coca 2L|Kapo|Powerade,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Qui,Alta
-1217686,Vereda Agropecuária,Outros Canais,DI,DI.1,D12,Base ampla — potencial,,R$ 954,~8 cx/mês,Coca 2L|Powerade|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1217686,Vereda Agropecuária,Outros Canais,DI,DI.1,D12,Base ampla — potencial,,R$ 954,~8 cx/mês,Coca 2L|Powerade|Cerveja,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1217687,Distribuidora E Comercial Monteiro,Adegas,DI,DI.1,D12,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qui,
 1217689,Dila'S Pizzaria,Restaurante,AN,AN.3,A32,Fortaleza de cobertura,80,R$ 2.304,~22 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Seg,Alta
 1217690,Araujo Refeições,Outros Canais,AP,AP.2,525,Base ampla — potencial,,R$ 835,~6 cx/mês,Zero|Coca 2L|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
@@ -23446,7 +23446,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1219059,Conveniencia Rio Branco,Boteco,RI,RI.1,C15,Fortaleza de cobertura,100,R$ 3.030,~16 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qua,Alta
 1219064,Merc Soares,Mercearia,IT,IT.2,I23,Base ampla — potencial,12,R$ 1.378,~11 cx/mês,Coca 2L|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1219068,Sup. Churrascão,As 1-4,MO,MO.1,M13,Grande conta,100,R$ 170.893,~1442 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,
-1219071,Distribuidora Pereira,Adegas,G1,G1.1,114,Fortaleza de cobertura,,R$ 1.170,~9 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1219071,Distribuidora Pereira,Adegas,G1,G1.1,114,Fortaleza de cobertura,,R$ 1.170,~9 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1219077,Elite Bebidas,Adegas,AP,AP.2,521,Base ampla — potencial,,R$ 2.788,~20 cx/mês,Zero|Coca 2L|Monster|Cerveja,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Qua,Média
 1219079,Restaurante No Fogão Caipira,Restaurante,AP,AP.3,531,Fortaleza de cobertura,73,R$ 5.040,~31 cx/mês,Zero|Coca 2L|Cerveja|Eisenbahn,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Ter,Alta
 1219080,Pesque Pague Estancia,Outros Canais,AN,AN.1,A13,Base ampla — cesta mínima,,R$ 317,~2 cx/mês,Zero|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
@@ -23921,7 +23921,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1220155,Persona Faschion Hair,Outros Canais,RI,RI.1,C16,Base ampla — cesta mínima,,R$ 386,~3 cx/mês,Zero|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qua,Média
 1220157,Cantina Do If Ceres,Lanchonete,RI,RI.1,C16,Médio — desenvolvido,87,R$ 8.836,~89 cx/mês,Zero|Coca 2L|Powerade|Monster|Sabores,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter,Média
 1220160,Os Minions Burguer,Lanchonete,G2,G2.1,213,Fortaleza de cobertura,80,R$ 2.579,~16 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,Alta
-1220162,Casa De Carnes Barra,Mercearia,G1,G1.1,111,Fortaleza de cobertura,62,R$ 3.973,~31 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
+1220162,Casa De Carnes Barra,Mercearia,G1,G1.1,111,Fortaleza de cobertura,62,R$ 3.973,~31 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1220165,Espettiscos Beer,Outros Canais,IT,IT.2,I21,Fortaleza de cobertura,,R$ 5.368,~45 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|ARTD,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Sex,Alta
 1220167,Super Master,As 1-4,G1,G1.1,113,Médio — desenvolvido,59,R$ 8.789,~68 cx/mês,Zero|Coca 2L|Kapo|Powerade|Cerveja|Sabores|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1220168,Vila Beer,Adegas,PA,PA.2,P22,Grande,,R$ 23.654,~170 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
@@ -24381,7 +24381,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1221143,Academia Nova Fit,Outros Canais,RI,RI.1,C12,Base ampla — potencial,,R$ 889,~9 cx/mês,Zero|Monster|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
 1221147,Tradição Bar,Boteco,RV,RV.2,R23,Médio — desenvolvido,100,R$ 12.247,~58 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|ARTD,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1221150,Armazém Araguaia,As 1-4,G3,G3.1,312,Grande,86,R$ 29.267,~259 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,,,0,0,NAO,Ter - Qui,
-1221151,Bar Da Selma,Boteco,RV,RV.2,R21,Fortaleza de cobertura,75,R$ 2.297,~21 cx/mês,Zero|Powerade|Monster|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1221151,Bar Da Selma,Boteco,RV,RV.2,R21,Fortaleza de cobertura,75,R$ 2.297,~21 cx/mês,Zero|Powerade|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1221153,Malbec Burger E Lazer,Lanchonete,RV,RV.1,R12,Médio — desenvolvido,73,R$ 11.560,~82 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg,Média
 1221154,Little Market,Mercearia,G1,G1.2,126,Fortaleza de cobertura,0,R$ 835,~8 cx/mês,Zero|Kapo|Powerade|Monster|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1221155,Matheus Supermercado,As 1-4,GU,GU.2,G23,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qui,
@@ -25135,7 +25135,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1222500,Ltm Fitness E Treinamento,Outros Canais,PA,PA.2,P26,Base ampla — potencial,,R$ 543,~5 cx/mês,Powerade|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
 1222502,Super Livre,As 1-4,G2,G2.1,214,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Sex,
 1222503,Pastelaria E Companhia,Lanchonete,IT,IT.2,I24,Base ampla — cesta mínima,0,R$ 167,~2 cx/mês,Kapo,Não,Não,1ª compra pendente,Média,,0,0,NAO,Ter,Média
-1222505,Drogaria Alves,Outros Canais,RV,RV.1,R14,Base ampla — potencial,,R$ 570,~5 cx/mês,Kapo|Powerade|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
+1222505,Drogaria Alves,Outros Canais,RV,RV.1,R14,Base ampla — potencial,,R$ 570,~5 cx/mês,Kapo|Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Média
 1222506,Top Fitness Academia,Outros Canais,RV,RV.1,R16,Base ampla — cesta mínima,,R$ 192,~1 cx/mês,Zero|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua,Média
 1222507,Empório Montelo,Mercearia,AP,AP.2,523,Base ampla — potencial,4,R$ 459,~3 cx/mês,Zero|Coca 2L|Cerveja,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1222509,Big Sucos Lanches,Lanchonete,G3,G3.1,316,Médio — desenvolvido,100,R$ 10.906,~90 cx/mês,Zero|Coca 2L|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter - Qui,Média
@@ -25207,7 +25207,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1222612,Top 3 Bar,Boteco,DI,DI.1,D11,Fortaleza de cobertura,100,R$ 3.470,~27 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1222613,Fim De Tarde Bar E Petiscos Ltda,Boteco,G2,G2.2,227,Fortaleza de cobertura,67,R$ 3.762,~29 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg,Alta
 1222614,Rei Das Vitaminas,Lanchonete,AN,AN.2,A26,Fortaleza de cobertura,80,R$ 5.259,~48 cx/mês,Zero|Kapo,Não,Não,1ª compra pendente,Alta,,0,0,NAO,Qui,Alta
-1222615,Campos Park Estacionamento,Outros Canais,G3,G3.1,312,Base ampla — potencial,,R$ 926,~9 cx/mês,Zero|Kapo|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qua - Sex,Média
+1222615,Campos Park Estacionamento,Outros Canais,G3,G3.1,312,Base ampla — potencial,,R$ 926,~9 cx/mês,Zero|Kapo|Monster,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Qua - Sex,Média
 1222616,Dist Alternativa,Adegas,SL,SL.1,S11,Médio — desenvolvido,,R$ 11.786,~96 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1222617,Govalle Produtos Farmaceuticos,Outros Canais,G1,G1.1,114,Base ampla — potencial,,R$ 1.014,~11 cx/mês,Zero|Kapo|Powerade|Monster,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1222618,Trattoria Massas,Outros Canais,AP,AP.2,525,Fortaleza de cobertura,,R$ 1.466,~17 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qui,
@@ -25596,7 +25596,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1223323,Bonança Supermercado,As 1-4,AP,AP.2,526,Base ampla — cesta mínima,4,R$ 235,~2 cx/mês,Kapo,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1223324,Quiosque 338,Outros Canais,UR,UR.2,U25,Fortaleza de cobertura,,R$ 1.576,~13 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Ter,Alta
 1223326,Pamonhas Da Fernanda,Lanchonete,RV,RV.2,R24,Base ampla — potencial,27,R$ 1.248,~10 cx/mês,Zero|Coca 2L|Cerveja|Cerveja 600,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
-1223327,Empório Tropical,As 1-4,G2,G2.1,216,Fortaleza de cobertura,4,R$ 4.977,~42 cx/mês,Coca 2L|Kapo|Monster|Cerveja|ARTD,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Sex,Alta
+1223327,Empório Tropical,As 1-4,G2,G2.1,216,Fortaleza de cobertura,4,R$ 4.977,~42 cx/mês,Coca 2L|Kapo|Monster|Cerveja|ARTD,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Alta
 1223329,Distribuidora Radar,Adegas,PA,PA.2,P22,Grande conta,,R$ 53.348,~411 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1223331,Pamonharia Sabor Do Milho,Lanchonete,PO,PO.1,O15,Base ampla — potencial,47,R$ 1.885,~10 cx/mês,Zero,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
 1223332,Bar E Distribuidora Silva,Adegas,G1,G1.1,112,Base ampla — potencial,,R$ 4.144,~46 cx/mês,Zero|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Sex,Média
@@ -25780,7 +25780,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1223615,Rr Comercio,As 1-4,PA,PA.2,P23,Base ampla — cesta mínima,4,R$ 139,~2 cx/mês,Kapo,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
 1223616,Jr Emporio De Bebidas,Adegas,SL,SL.2,S24,Médio — desenvolvido,,R$ 16.121,~143 cx/mês,Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,Média
 1223618,Supermercado Favorito,As 1-4,PA,PA.2,P27,Médio — desenvolvido,100,R$ 14.132,~105 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Não,Não,1ª compra pendente,Média,,0,0,NAO,Qui,Média
-1223621,Farmacia Do Povo Rioverdense,Outros Canais,RV,RV.1,R12,Base ampla — potencial,,R$ 1.714,~16 cx/mês,Zero|Powerade|Monster,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Sex,Média
+1223621,Farmacia Do Povo Rioverdense,Outros Canais,RV,RV.1,R12,Base ampla — potencial,,R$ 1.714,~16 cx/mês,Zero|Powerade|Monster,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,Média
 1223622,Globo Bebida Gelada,Adegas,RV,RV.1,R15,Base ampla — potencial,,R$ 528,~1 cx/mês,Cerveja|Cerveja 600,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
 1223623,Colossi Beer,Adegas,RV,RV.1,R12,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Qua,
 1223624,Drogaria Santa Monica,Outros Canais,RV,RV.1,R13,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Seg,
@@ -26185,7 +26185,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1224249,Hotel Maracana,Outros Canais,PO,PO.1,O11,Fortaleza de cobertura,,R$ 2.513,~25 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Ter,Alta
 1224250,Texas Barbearia,Outros Canais,PO,PO.1,O13,Base ampla — potencial,,R$ 1.117,~11 cx/mês,Powerade|Cerveja,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1224251,Drogaria R&D,Outros Canais,RV,RV.1,R15,Fortaleza de cobertura,,R$ 1.187,~8 cx/mês,Zero|Powerade|Monster|Cerveja|Cerveja 600,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
-1224253,Barbearia Do Jotinha,Outros Canais,DI,DI.1,D15,Fortaleza de cobertura,,R$ 1.021,~11 cx/mês,Coca 2L|Kapo|Powerade|Cerveja|Eisenbahn|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1224253,Barbearia Do Jotinha,Outros Canais,DI,DI.1,D15,Fortaleza de cobertura,,R$ 1.021,~11 cx/mês,Coca 2L|Kapo|Powerade|Cerveja|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1224255,Distribuidora Oeste,Boteco,G1,G1.1,113,Fortaleza de cobertura,92,R$ 2.082,~17 cx/mês,Zero|Powerade|Monster|Cerveja,Sim,Não,Recompra a reativar,Alta,,0,0,SIM,Qua,Alta
 1224256,Supermercado Gran Bueno,As 1-4,G1,G1.3,131,Grande conta,86,R$ 59.996,~431 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Cerveja 600|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1224258,Cravo E Canela,Outros Canais,PA,PA.3,P33,Base ampla — cesta mínima,,R$ 735,~6 cx/mês,Zero|Kapo,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Ter,Média
@@ -26311,7 +26311,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1224474,Lanchonete Cafe No Porto,Lanchonete,PA,PA.3,P34,Médio — desenvolvido,100,R$ 8.813,~77 cx/mês,Zero|Coca 2L|Powerade|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1224475,Sorveteria E Acaiteria Frutos De Go,Outros Canais,PA,PA.3,P34,Base ampla — potencial,,R$ 684,~9 cx/mês,Zero,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,Média
 1224477,Jrv Materiais De Construção,As 1-4,PA,PA.3,P34,Médio — desenvolvido,48,R$ 19.108,~142 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
-1224478,Sabor E Encontro,Lanchonete,PA,PA.3,P34,Fortaleza de cobertura,93,R$ 2.547,~19 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|ARTD,Sim,Não,1ª compra pendente,Alta,,0,0,SIM,Sex,Alta
+1224478,Sabor E Encontro,Lanchonete,PA,PA.3,P34,Fortaleza de cobertura,93,R$ 2.547,~19 cx/mês,Zero|Coca 2L|Powerade|Monster|Cerveja|ARTD,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,Alta
 1224479,Serve Bem Supermercado,Mercearia,AN,AN.3,A31,Fortaleza de cobertura,21,R$ 2.112,~19 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1224481,Ana Mel Panificadora E Confeitaria,Padarias,AP,AP.3,533,Fortaleza de cobertura,33,R$ 1.211,~10 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Sabores,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Qua,
 1224483,Supermercado Leandro,As 1-4,AP,AP.2,528,Base ampla — cesta mínima,0,R$ 357,~3 cx/mês,Zero|Coca 2L,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Qui,Média
@@ -26451,7 +26451,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1224673,Gra Motos Peças,Outros Canais,DI,DI.1,D12,Fortaleza de cobertura,,R$ 1.070,~8 cx/mês,Coca 2L|Kapo|Monster|Cerveja|ARTD,Sim,Não,Recompra a reativar,,,0,0,SIM,Seg,
 1224674,Hary Pastelaria,Lanchonete,PA,PA.1,P12,Base ampla — potencial,13,R$ 643,~4 cx/mês,Zero,Não,Não,1ª compra pendente,Média,,0,0,NAO,Sex,Média
 1224675,Aquagelo,Adegas,UR,UR.1,U13,Base ampla — potencial,,R$ 1.018,~9 cx/mês,Coca 2L|Cerveja|ARTD,Sim,Não,Recompra a reativar,Média,,0,0,SIM,Ter,Média
-1224677,Restaurante Mistura Brasileira,Restaurante,G3,G3.1,313,Base ampla — potencial,33,R$ 1.285,~9 cx/mês,Zero|Coca 2L|Monster,Não,Não,1ª compra pendente,Média,,0,0,NAO,Seg - Qua,Média
+1224677,Restaurante Mistura Brasileira,Restaurante,G3,G3.1,313,Base ampla — potencial,33,R$ 1.285,~9 cx/mês,Zero|Coca 2L|Monster,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg - Qua,Média
 1224679,Pizzaria Brasil Tropical,Restaurante,PO,PO.1,O15,Médio — desenvolvido,60,R$ 6.064,~39 cx/mês,Zero|Coca 2L|Kapo|Monster|Cerveja|Cerveja 600|Sabores|ARTD,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Sex,
 1224680,Dubarba Comida Caseira,Restaurante,G3,G3.1,313,Médio — desenvolvido,93,R$ 6.994,~58 cx/mês,Zero|Monster|Cerveja,Sim,Não,1ª compra pendente,Média,,0,0,SIM,Seg - Qua,Média
 1224681,Conveniencia Show,Adegas,PO,PO.1,O12,Médio — desenvolvido,,R$ 20.520,~187 cx/mês,Zero|Coca 2L|Kapo|Powerade|Monster|Cerveja|Sabores|Eisenbahn|ARTD,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
@@ -26647,14 +26647,14 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1224968,Droga Mar,Outros Canais,G3,G3.1,314,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Seg - Qua,
 1224969,Café E Conveniência,Lanchonete,AN,AN.3,A31,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Ter,
 1224970,Hotel Mirante,Outros Canais,SL,SL.1,S11,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Seg,
-1224979,Empório Miller,Adegas,AP,AP.2,525,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,Recompra a reativar,,,0,0,SIM,Sex,
+1224979,Empório Miller,Adegas,AP,AP.2,525,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,
 1224985,Morada Do Pastel,Lanchonete,AP,AP.3,536,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Sex,
 1224987,Distribuidora Ponto Certo,Adegas,G1,G1.1,113,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,Recompra a reativar,,,0,0,NAO,Seg,
 1224988,Supermercado Do Léo,As 1-4,G2,G2.2,221,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qua,
 1224989,Distribuidora Divisa,Adegas,G2,G2.1,216,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Qua,
 1224990,Atacadinho Mercado E Dist,As 1-4,SL,SL.2,S24,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
 1224991,Jns Lanches,Lanchonete,G2,G2.2,223,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
-1224992,Super Economia Supermercado,As 1-4,SL,SL.2,S24,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Não,Recompra a reativar,,,0,0,SIM,Sex,
+1224992,Super Economia Supermercado,As 1-4,SL,SL.2,S24,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,Recompra já comprou este mês,—,,0,1,SIM,Sex,
 1224993,Jump Indoor Cerrado,Outros Canais,G3,G3.2,321,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,Recompra a reativar,,,0,0,SIM,Qui,
 1224994,Fir Pump Suplementos,Outros Canais,G2,G2.2,223,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Sim,Recompra já comprou este mês,—,,1,0,SIM,Ter,
 1224995,Mega Pamonharia Ararense,Lanchonete,MO,MO.1,M12,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qui,
@@ -27085,7 +27085,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1225542,Prime Hamburgueria,Lanchonete,MO,MO.1,M14,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qui,
 1225543,Frutos De Goias,Outros Canais,IT,IT.1,I11,Sem compra (3m),,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qua,
 1225547,Empório Pomar Lopes,Mercearia,AP,AP.3,533,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Qua,
-1225548,Peg Pag Bom Preço,Mercearia,MO,MO.2,M26,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
+1225548,Peg Pag Bom Preço,Mercearia,MO,MO.2,M26,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1225550,Wr Distribuidora,Outros Canais,UR,UR.2,U22,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,Recompra a reativar,,,0,0,SIM,Ter,
 1225551,Caipirão,Restaurante,GU,GU.1,G13,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
 1225553,Hiperfesta,Outros Canais,UR,UR.1,U12,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Ter,
@@ -27314,7 +27314,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1225882,Super Universo,As 1-4,PA,PA.3,P33,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Não,Recompra a reativar,,,0,0,SIM,Qua,
 1225884,Bar Do Two Nine,Boteco,SL,SL.1,S13,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Qui,
 1225885,Bs Churrascaria,Restaurante,SL,SL.2,S25,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Seg,
-1225886,Goias Panif E Lanchonete,Lanchonete,SL,SL.2,S25,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Não,1ª compra pendente,,,0,0,SIM,Sex,
+1225886,Goias Panif E Lanchonete,Lanchonete,SL,SL.2,S25,Sem compra (3m),0,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,0,1,SIM,Sex,
 1225888,Gelo E Gela,Adegas,RV,RV.2,R23,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Não,Recompra a reativar,,,0,0,SIM,Qui,
 1225890,Supermercado Dona Maria,As 1-4,PA,PA.2,P21,Sem compra (3m),0,R$ 0,~0 cx/mês,,Não,Não,1ª compra pendente,,,0,0,NAO,Sex,
 1225891,Fort Atacadista,Adegas,RV,RV.1,R13,Sem compra (3m),,R$ 0,~0 cx/mês,,Sim,Sim,1ª compra feita este mês,—,,1,0,SIM,Qua,
@@ -28413,7 +28413,7 @@ cod,nome,segmento,gc,sv,rota,arquetipo,imp,fat3m,cx_mes,itens,cadastrado,comprou
 1227329,Bello Pao,Padarias,PA,PA.3,P34,Novo na base,,sem histórico,,,Não,Não,1ª compra pendente,Média,"Cliente novo na base, sem histórico de 3 meses",0,0,NAO,Seg,Média
 1227330,Comercial Mato Grosso,As 1-4,PA,PA.3,P36,Novo na base,,sem histórico,,,Sim,Sim,1ª compra feita este mês,—,"Cadastro precisa ser refeito, não consta mais na base",1,0,SIM,Qua,
 1227331,Comercial Popular,As 1-4,PA,PA.3,P36,Novo na base,,sem histórico,,,Sim,Não,1ª compra pendente,Média,"Cliente novo na base, sem histórico de 3 meses",0,0,SIM,Qua,Média
-1227332,Distribuidora Do Indio,Adegas,PA,PA.3,P36,Novo na base,,sem histórico,,,Sim,Não,1ª compra pendente,Média,"Cliente novo na base, sem histórico de 3 meses",0,0,SIM,Sex,Média
+1227332,Distribuidora Do Indio,Adegas,PA,PA.3,P36,Novo na base,,sem histórico,,,Sim,Sim,1ª compra feita este mês,—,"Cliente novo na base, sem histórico de 3 meses",0,1,SIM,Sex,Média
 1227333,Mercearia Da Familia,As 1-4,AP,AP.2,527,Novo na base,,sem histórico,,,Sim,Sim,1ª compra feita este mês,—,"Cliente novo na base, sem histórico de 3 meses",1,0,SIM,Qui,
 1227334,Jantinha Da Wilma,Outros Canais,UR,UR.1,U15,Novo na base,,sem histórico,,,Sim,Sim,1ª compra feita este mês,—,"Cliente novo na base, sem histórico de 3 meses",1,0,SIM,Seg,Média
 1227335,Restaurante Oliveiras,Restaurante,AN,AN.2,A21,Novo na base,,sem histórico,,,Não,Não,1ª compra pendente,Média,"Cliente novo na base, sem histórico de 3 meses",0,0,NAO,Seg,Média
